@@ -1,17 +1,44 @@
 [submodule "turtlebot_msgs"]
-           path = src/turtlebot_msgs
+           path = catkin_ws/src/turtlebot_msgs
            url = https://github.com/turtlebot/turtlebot_msgs
 
 [submodule "turtlebot_simulator"]
-           path = src/turtlebot_simulator
+           path = catkin_ws/src/turtlebot_simulator
            url = https://github.com/turtlebot/turtlebot_simulator
 
-
-[submodule "src/rtabmap_ros"]
-        path = src/rtabmap_ros
+[submodule "rtabmap_ros"]
+        path = catkin_ws/src/rtabmap_ros
         url = https://github.com/introlab/rtabmap_ros
 
-[submodule "src/common_interfaces"]
-        path = src/common_interfaces
+[submodule "common_interfaces"]
+        path = catkin_ws/src/common_interfaces
         url = https://github.com/ros2/common_interfaces
+
+[submodule "ddynamic_reconfigure"]
+           path = catkin_ws/src/ddynamic_reconfigure
+           url = https://github.com/pal-robotics/ddynamic_reconfigure
+
+[submodule "realsense-ros"]
+           path = catkin_ws/src/realsense-ros
+           url = https://github.com/IntelRealSense/realsense-ros
+
+[submodule "pcl"]
+           path = pcl
+           url = https://github.com/PointCloudLibrary/pcl
+
+[submodule "ros-sharp"]
+           path = ros-sharp
+           url = https://github.com/siemens/ros-sharp
+
+[submodule "kobuki_msgs"]
+           path = catkin_ws/src/kobuki_msgs
+           url = https://github.com/yujinrobot/kobuki
+
+[submodule "turtlebot"]
+           path = catkin_ws/src/turtlebot
+           url = https://github.com/turtlebot/turtlebot
+
+[submodule "turtlebot_apps"]
+           path = catkin_ws/src/turtlebot_apps
+           url = https://github.com/turtlebot/turtlebot_apps
 
