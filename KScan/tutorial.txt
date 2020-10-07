@@ -1,0 +1,5 @@
+OUTDATED DUE TO ROS# bk 10/7/20
+
+one_button_to_rule_them_all.sh can be run to create the network bridge between the Ubuntu machine. Make sure that SSH is enabled. It will automatically grab and convert the newest pointcloud. However, directory location needs to be updated to automatically drop into the Unity project.
+
+Otherwise, KScanRGBAutomated.sh can be run with the file name as the second argument. It will automatically convert the file from a pcd into a Unity ply format.

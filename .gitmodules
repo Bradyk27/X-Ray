@@ -1,0 +1,17 @@
+[submodule "turtlebot_msgs"]
+           path = src/turtlebot_msgs
+           url = https://github.com/turtlebot/turtlebot_msgs
+
+[submodule "turtlebot_simulator"]
+           path = src/turtlebot_simulator
+           url = https://github.com/turtlebot/turtlebot_simulator
+
+
+[submodule "src/rtabmap_ros"]
+        path = src/rtabmap_ros
+        url = https://github.com/introlab/rtabmap_ros
+
+[submodule "src/common_interfaces"]
+        path = src/common_interfaces
+        url = https://github.com/ros2/common_interfaces
+
