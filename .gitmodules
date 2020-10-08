@@ -14,7 +14,7 @@
         path = catkin_ws/src/common_interfaces
         url = https://github.com/ros2/common_interfaces
 
-[submodule "ddynamic_reconfigure"]
+[submodule "src/ddynamic_reconfigure"]
            path = catkin_ws/src/ddynamic_reconfigure
            url = https://github.com/pal-robotics/ddynamic_reconfigure
 
