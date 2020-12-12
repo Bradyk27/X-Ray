@@ -28,7 +28,7 @@ The X-Ray system is comprised of the following parts:
 
    1. You can build a Unity project from scratch *or* copy one from the Alienware machine, flash drive, or this git repo (if I can add them. As of Dec. 12th, 2020 they *are not* yet added.)
 
-5. Add the ROS# Unity package *DO NOT USE the latest release. Use pull request #190 found [here](https://github.com/siemens/ros-sharp/pull/190)
+5. Add the ROS# Unity package *DO NOT USE* the latest release. Use pull request #190 found [here](https://github.com/siemens/ros-sharp/pull/190)
 
 6. If building your own project, configure it by following [these steps](https://github.com/siemens/ros-sharp/issues/184#issuecomment-664647025). If cloning one of mine or Nate's, you *shouldn't* need to do this, but if you run into errors start by verifying all of this.
 
@@ -56,9 +56,9 @@ The X-Ray system is comprised of the following parts:
 
 2. On the Ubuntu machine, open a new terminal and run:
 
-   roslaunch realsense2_camera opensource_tracking.launch
+        roslaunch realsense2_camera opensource_tracking.launch
 
-Note that the .launch file can be edited to open Rviz or not. Rviz is just for visualization--it will not affect the pointcloud transfer but could save computing power by not being run.
+   Note that the .launch file can be edited to open Rviz or not. Rviz is just for visualization--it will not affect the pointcloud transfer but could save computing power by not being run.
 
 3. Open a new terminal tab and run:
    
