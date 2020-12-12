@@ -1,9 +1,0 @@
-On Ubuntu Machine:
-roslaunch realsense2_camera opensource_tracking.launch
-(.launch file can be edited to open ROSbridge as well or to not open Rviz)
-roslaunch rosbridge_server rosbridge_websocket.launch
-
-On Unity:
-Create ROS Connector Object connected to Ubuntu IP (nmap -Pn 10.42.0.1 to make sure it's open)
-Create mesh for the screen
-Press play
