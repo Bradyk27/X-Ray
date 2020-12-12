@@ -43,11 +43,8 @@ The X-Ray system is comprised of the following parts:
 ## Repo Breakdown
 
 * KScan is an outdated method of capturing and transferring pointclouds from the Ubuntu machine to the Unity project, primarily through various shell commands. It can still be very useful for capturing example pointclouds, hence it's inclusion. See tutorial.txt for basic usage. Make sure to fork before any edits are made--it's very configurable but the base should be left alone.
-
 * PCLProjects contains several builds of useful functions from the pcl library for converting pointclouds between formats. It's primarily used by the KScan program.
-
 * Posters_Presentations & RelevantPapers are fairly self-explanatory. Backups of various presentations.
-
 * catkin_ws is what your local ROS catkin_ws should resemble.
 
 ## Usage
@@ -62,19 +59,19 @@ The X-Ray system is comprised of the following parts:
 
 3. Open a new terminal tab and run:
    
-   roslaunch rosbridge_server rosbridge_websocket.launch
+        roslaunch rosbridge_server rosbridge_websocket.launch
 
-This will open the Rosbridge server. Incoming connections (like Unity or the Leap) will be listed as appropriate.
+   This will open the Rosbridge server. Incoming connections (like Unity or the Leap) will be listed as appropriate.
 
 4. On the Unity project, choose the desired topics to subscribe to. All topics can be listed by running 
    
-   rostopic list
+        rostopic list
 
-on the Ubuntu machine. Make sure to attach the topics to an appropriate Unity mesh (see example projects.) Also make sure to include the '/' in the name. You can also run 
+   on the Ubuntu machine. Make sure to attach the topics to an appropriate Unity mesh (see example projects.) Also make sure to include the '/' in the name. You can also run 
 
-   nmap -Pn <Ubuntu machine IP>
+        nmap -Pn <Ubuntu machine IP>
 
-to see if the correct ports are open for the Rosbridge server.
+   to see if the correct ports are open for the Rosbridge server.
 
 5. On the Unity project, press play to verify that all connections are working properly.
 
