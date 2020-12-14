@@ -79,6 +79,12 @@ The X-Ray system is comprised of the following parts:
 
 Congratulations. You have successfully transferred and rendered Ros topics wirelessly. 
 
+## Miscellaneous
+
+An older, significantly more messy version of this code can be found [here](https://github.com/Bradyk27/ROSResearch2)
+
+Feel free to email me with questions at bradyakruse@gmail.com
+
 ## Future Directions & Ideas
 
 * Dockerize this system and integrate it via Docker compose. Make it much more scalable and accesible. 

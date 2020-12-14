@@ -1,0 +1,458 @@
+{
+ "entries": [
+  {
+   "compression": 8,
+   "hash": "2a460e48e95200341bf9f8ee9a31187e2eaa9581",
+   "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
+   "size": 6381616,
+   "src": "C:/Users/Brady/Desktop/offsetTracking CURRENT/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "8815efe142b0f55fedfb2ea77818707981b250c3",
+   "pkgpath": "bin/libil2cpp.so",
+   "size": 102447832,
+   "src": "C:/Users/Brady/Desktop/offsetTracking CURRENT/Temp/StagingArea/Data/Native/libil2cpp.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\Brady\\Desktop\\offsetTracking CURRENT\\hummer2019.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "9de4fc7ba3f03bdf19f91c4937f35ec14facd073",
+   "xfrm_path": "C:/Users/Brady/Desktop/offsetTracking CURRENT/.out/.cache/debug_lumin_clang-3.8_aarch64/com.sparrlab.offsettracking-d2b85d577f7a75e3\\libil2cpp.so-90b6a0fde6d0680e",
+   "xfrm_size": 102448590
+  },
+  {
+   "compression": 8,
+   "hash": "fa2b8ff146caf64688e7aa835af0034ca81b5505",
+   "pkgpath": "bin/AudioPluginMSASpatializer.so",
+   "size": 282448,
+   "src": "C:/Users/Brady/Desktop/offsetTracking CURRENT/Temp/StagingArea/Data/Plugins/AudioPluginMSASpatializer.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\Brady\\Desktop\\offsetTracking CURRENT\\hummer2019.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "5f65a10180405e7c0a9f71a788d23260a6019ba2",
+   "xfrm_path": "C:/Users/Brady/Desktop/offsetTracking CURRENT/.out/.cache/debug_lumin_clang-3.8_aarch64/com.sparrlab.offsettracking-d2b85d577f7a75e3\\AudioPluginMSASpatializer.so-e7920fc6e7090e81",
+   "xfrm_size": 283206
+  },
+  {
+   "compression": 8,
+   "hash": "8da354356050f6327d2c442f03a6d413237e5cf2",
+   "pkgpath": "bin/Intel.RealSense.dll",
+   "size": 81408,
+   "src": "C:/Users/Brady/Desktop/offsetTracking CURRENT/Temp/StagingArea/Data/Plugins/Intel.RealSense.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "bb2019aa860ee71df5a09e859745090f0193bf29",
+   "pkgpath": "bin/LuminMediaPlayer.dll",
+   "size": 68096,
+   "src": "C:/Users/Brady/Desktop/offsetTracking CURRENT/Temp/StagingArea/Data/Plugins/LuminMediaPlayer.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "6ad9bb807d218548e4eb3b375bec2c1bace5bfe7",
+   "pkgpath": "bin/LuminUnity.dll",
+   "size": 329216,
+   "src": "C:/Users/Brady/Desktop/offsetTracking CURRENT/Temp/StagingArea/Data/Plugins/LuminUnity.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "b8ce049d2e85f27cc7346d7551d1853b20e78461",
+   "pkgpath": "bin/MSA.Runtime.dll",
+   "size": 22016,
+   "src": "C:/Users/Brady/Desktop/offsetTracking CURRENT/Temp/StagingArea/Data/Plugins/MSA.Runtime.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "7b1b9517ebce86fe0b18e9c82eba7de46abe6ff4",
+   "pkgpath": "bin/Mono.CecilX.Mdb.dll",
+   "size": 43520,
+   "src": "C:/Users/Brady/Desktop/offsetTracking CURRENT/Temp/StagingArea/Data/Plugins/Mono.CecilX.Mdb.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "34c015db3d88cfbc53d8b1154c387ce3182b3387",
+   "pkgpath": "bin/Mono.CecilX.Pdb.dll",
+   "size": 87552,
+   "src": "C:/Users/Brady/Desktop/offsetTracking CURRENT/Temp/StagingArea/Data/Plugins/Mono.CecilX.Pdb.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "3bbf4714ec57c483e2080b0e27f018a5e3c6c312",
+   "pkgpath": "bin/Mono.CecilX.Rocks.dll",
+   "size": 27648,
+   "src": "C:/Users/Brady/Desktop/offsetTracking CURRENT/Temp/StagingArea/Data/Plugins/Mono.CecilX.Rocks.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "1986cb780e51f2177dc960ababd88655d953157a",
+   "pkgpath": "bin/Mono.CecilX.dll",
+   "size": 340992,
+   "src": "C:/Users/Brady/Desktop/offsetTracking CURRENT/Temp/StagingArea/Data/Plugins/Mono.CecilX.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "41299d3f64d31ef326c59b3b1745ddcfd4aa298c",
+   "pkgpath": "bin/Newtonsoft.Json.dll",
+   "size": 399360,
+   "src": "C:/Users/Brady/Desktop/offsetTracking CURRENT/Temp/StagingArea/Data/Plugins/Newtonsoft.Json.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "4620a1c14366de900ee574cb96329189aaa7da29",
+   "pkgpath": "bin/RosBridgeClient.dll",
+   "size": 47616,
+   "src": "C:/Users/Brady/Desktop/offsetTracking CURRENT/Temp/StagingArea/Data/Plugins/RosBridgeClient.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "c7225e531ce88520b44a65a096a8d21b1e1e9617",
+   "pkgpath": "bin/Telepathy.dll",
+   "size": 4096,
+   "src": "C:/Users/Brady/Desktop/offsetTracking CURRENT/Temp/StagingArea/Data/Plugins/Telepathy.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "a71acc50817a0929bccc93cbe7619d57d25d1b17",
+   "pkgpath": "bin/UnityMagicLeap.so",
+   "size": 3077192,
+   "src": "C:/Users/Brady/Desktop/offsetTracking CURRENT/Temp/StagingArea/Data/Plugins/UnityMagicLeap.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\Brady\\Desktop\\offsetTracking CURRENT\\hummer2019.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "0b914fc34e56d5e1e153ab431fa5130f0470b51c",
+   "xfrm_path": "C:/Users/Brady/Desktop/offsetTracking CURRENT/.out/.cache/debug_lumin_clang-3.8_aarch64/com.sparrlab.offsettracking-d2b85d577f7a75e3\\UnityMagicLeap.so-e7920fc6e7090e81",
+   "xfrm_size": 3077950
+  },
+  {
+   "compression": 8,
+   "hash": "427a512c9530b0ec232d717e53e8233c08cd42e2",
+   "pkgpath": "bin/Urdf.dll",
+   "size": 20992,
+   "src": "C:/Users/Brady/Desktop/offsetTracking CURRENT/Temp/StagingArea/Data/Plugins/Urdf.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "fbfa4a6aa20b14e0f60550676e5d34bebb99d46d",
+   "pkgpath": "bin/libml_camera_plugin.so",
+   "size": 14184,
+   "src": "C:/Users/Brady/Desktop/offsetTracking CURRENT/Temp/StagingArea/Data/Plugins/libml_camera_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\Brady\\Desktop\\offsetTracking CURRENT\\hummer2019.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "fd077b351fb46685402ecc25fcdd90dc4cd8131c",
+   "xfrm_path": "C:/Users/Brady/Desktop/offsetTracking CURRENT/.out/.cache/debug_lumin_clang-3.8_aarch64/com.sparrlab.offsettracking-d2b85d577f7a75e3\\libml_camera_plugin.so-e7920fc6e7090e81",
+   "xfrm_size": 14942
+  },
+  {
+   "compression": 8,
+   "hash": "88ac1047e0ac5686d703471c3115f719ca66a4e8",
+   "pkgpath": "bin/libml_mediaplayer_plugin.so",
+   "size": 67624,
+   "src": "C:/Users/Brady/Desktop/offsetTracking CURRENT/Temp/StagingArea/Data/Plugins/libml_mediaplayer_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\Brady\\Desktop\\offsetTracking CURRENT\\hummer2019.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "0cd2454fb0dbae7afcbc29a4946f6b8f9c1f91f1",
+   "xfrm_path": "C:/Users/Brady/Desktop/offsetTracking CURRENT/.out/.cache/debug_lumin_clang-3.8_aarch64/com.sparrlab.offsettracking-d2b85d577f7a75e3\\libml_mediaplayer_plugin.so-e7920fc6e7090e81",
+   "xfrm_size": 68382
+  },
+  {
+   "compression": 8,
+   "hash": "984e4d2049ed5491b970ba15d1e8c8cadac0896e",
+   "pkgpath": "bin/nunit.framework.dll",
+   "size": 339968,
+   "src": "C:/Users/Brady/Desktop/offsetTracking CURRENT/Temp/StagingArea/Data/Plugins/nunit.framework.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "7efd3156720e4387a2aaa22b7707c7e5245f3f82",
+   "pkgpath": "bin/realsense2.dll",
+   "size": 20415152,
+   "src": "C:/Users/Brady/Desktop/offsetTracking CURRENT/Temp/StagingArea/Data/Plugins/realsense2.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "2b3a862c1908baa90d119b4ceef4b13715fdbb1d",
+   "pkgpath": "bin/websocket-sharp.dll",
+   "size": 250368,
+   "src": "C:/Users/Brady/Desktop/offsetTracking CURRENT/Temp/StagingArea/Data/Plugins/websocket-sharp.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "bf338f7289c3ce87cbeeebc493b47e708fcc19ff",
+   "pkgpath": "Data/Resources/Newtonsoft.Json.dll-resources.dat",
+   "size": 639,
+   "src": "C:/Users/Brady/Desktop/offsetTracking CURRENT/Temp/StagingArea/Data/Resources/Newtonsoft.Json.dll-resources.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "e6124da6073b916e29e013cf3ae3f58a4c5fdb0e",
+   "pkgpath": "Data/Resources/mscorlib.dll-resources.dat",
+   "size": 337563,
+   "src": "C:/Users/Brady/Desktop/offsetTracking CURRENT/Temp/StagingArea/Data/Resources/mscorlib.dll-resources.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "fa10859a933989c5961257c02d9f4fcf042044f1",
+   "pkgpath": "Data/Resources/unity default resources",
+   "size": 3689324,
+   "src": "C:/Users/Brady/Desktop/offsetTracking CURRENT/Temp/StagingArea/Data/Resources/unity default resources"
+  },
+  {
+   "compression": 8,
+   "hash": "88bb7afbcf63275d0962b4c7c7cede30a1b0d014",
+   "pkgpath": "Data/Resources/unity_builtin_extra",
+   "size": 770468,
+   "src": "C:/Users/Brady/Desktop/offsetTracking CURRENT/Temp/StagingArea/Data/Resources/unity_builtin_extra"
+  },
+  {
+   "compression": 8,
+   "hash": "5f04ed89e146acc88b3bc4220549efa5d1c80b39",
+   "pkgpath": "Data/StreamingAssets/StreamingAssets",
+   "size": 1020,
+   "src": "C:/Users/Brady/Desktop/offsetTracking CURRENT/Temp/StagingArea/Data/StreamingAssets/StreamingAssets"
+  },
+  {
+   "compression": 8,
+   "hash": "a0602c5e8a15d14fc206ca38b3990c48875ce9fd",
+   "pkgpath": "Data/StreamingAssets/StreamingAssets.manifest",
+   "size": 246,
+   "src": "C:/Users/Brady/Desktop/offsetTracking CURRENT/Temp/StagingArea/Data/StreamingAssets/StreamingAssets.manifest"
+  },
+  {
+   "compression": 8,
+   "hash": "982e56a270c4bb2531af9b23b8ce037ef0af6c18",
+   "pkgpath": "Data/StreamingAssets/sample_assets",
+   "size": 113500,
+   "src": "C:/Users/Brady/Desktop/offsetTracking CURRENT/Temp/StagingArea/Data/StreamingAssets/sample_assets"
+  },
+  {
+   "compression": 8,
+   "hash": "daec9f58615934b96736c054c422dad9f8c14e79",
+   "pkgpath": "Data/StreamingAssets/sample_assets.manifest",
+   "size": 5774,
+   "src": "C:/Users/Brady/Desktop/offsetTracking CURRENT/Temp/StagingArea/Data/StreamingAssets/sample_assets.manifest"
+  },
+  {
+   "compression": 8,
+   "hash": "07dea47a27f18cda123035dfd8776a085fb7ad99",
+   "pkgpath": "Data/StreamingAssets/sample_scenes",
+   "size": 165431,
+   "src": "C:/Users/Brady/Desktop/offsetTracking CURRENT/Temp/StagingArea/Data/StreamingAssets/sample_scenes"
+  },
+  {
+   "compression": 8,
+   "hash": "bc8ef84f5bb269106c15d7689c083729e2304c6d",
+   "pkgpath": "Data/StreamingAssets/sample_scenes.manifest",
+   "size": 935,
+   "src": "C:/Users/Brady/Desktop/offsetTracking CURRENT/Temp/StagingArea/Data/StreamingAssets/sample_scenes.manifest"
+  },
+  {
+   "compression": 8,
+   "hash": "778891100a8030ad6096db64784c6e5d67c28378",
+   "pkgpath": "Data/UnitySubsystems/UnityMagicLeap/UnitySubsystemsManifest.json",
+   "size": 417,
+   "src": "C:/Users/Brady/Desktop/offsetTracking CURRENT/Temp/StagingArea/Data/UnitySubsystems/UnityMagicLeap/UnitySubsystemsManifest.json"
+  },
+  {
+   "compression": 8,
+   "hash": "41028c62fd43cbe7a2ac0397ad40c88e69197030",
+   "pkgpath": "Data/boot.config",
+   "size": 248,
+   "src": "C:/Users/Brady/Desktop/offsetTracking CURRENT/Temp/StagingArea/Data/boot.config"
+  },
+  {
+   "compression": 8,
+   "hash": "8fad33ee0b36434e9e5e218ab0e9fd300641cd54",
+   "pkgpath": "Data/globalgamemanagers",
+   "size": 76024,
+   "src": "C:/Users/Brady/Desktop/offsetTracking CURRENT/Temp/StagingArea/Data/globalgamemanagers"
+  },
+  {
+   "compression": 8,
+   "hash": "02d5666f2bc72aecebc1350b9e0f136fc598087c",
+   "pkgpath": "Data/globalgamemanagers.assets",
+   "size": 129084,
+   "src": "C:/Users/Brady/Desktop/offsetTracking CURRENT/Temp/StagingArea/Data/globalgamemanagers.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "95585494a35a206d8edecf9b7f82d4ff5a5aeea0",
+   "pkgpath": "Data/level0",
+   "size": 49880,
+   "src": "C:/Users/Brady/Desktop/offsetTracking CURRENT/Temp/StagingArea/Data/level0"
+  },
+  {
+   "compression": 8,
+   "hash": "aa328e58ad0bc603bbaa1fffca627f5dc73a6c94",
+   "pkgpath": "Data/level0.resS",
+   "size": 131232,
+   "src": "C:/Users/Brady/Desktop/offsetTracking CURRENT/Temp/StagingArea/Data/level0.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "c5030aaa0bc56ff6019fbac5b2bb48375ccf22c5",
+   "pkgpath": "Data/level1",
+   "size": 25016,
+   "src": "C:/Users/Brady/Desktop/offsetTracking CURRENT/Temp/StagingArea/Data/level1"
+  },
+  {
+   "compression": 8,
+   "hash": "aa328e58ad0bc603bbaa1fffca627f5dc73a6c94",
+   "pkgpath": "Data/level1.resS",
+   "size": 131232,
+   "src": "C:/Users/Brady/Desktop/offsetTracking CURRENT/Temp/StagingArea/Data/level1.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "73a0df97c1d1ee9c6c1c15a24c61580753658f09",
+   "pkgpath": "Data/resources.assets",
+   "size": 49224,
+   "src": "C:/Users/Brady/Desktop/offsetTracking CURRENT/Temp/StagingArea/Data/resources.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "1d5e5447a0f0b085b695376c9fdb7738e07e4f23",
+   "pkgpath": "Data/resources.assets.resS",
+   "size": 360480,
+   "src": "C:/Users/Brady/Desktop/offsetTracking CURRENT/Temp/StagingArea/Data/resources.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "6cdc0e4cbe1201c4ca6f1a16e833814ac2bbc3a8",
+   "pkgpath": "Data/resources.resource",
+   "size": 5875136,
+   "src": "C:/Users/Brady/Desktop/offsetTracking CURRENT/Temp/StagingArea/Data/resources.resource"
+  },
+  {
+   "compression": 8,
+   "hash": "e64d6318c386f2886f33879889be745caca06afd",
+   "pkgpath": "Data/sharedassets0.assets",
+   "size": 6376528,
+   "src": "C:/Users/Brady/Desktop/offsetTracking CURRENT/Temp/StagingArea/Data/sharedassets0.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "f065e551735799c09796e0b2c56d97e3495d09a7",
+   "pkgpath": "Data/sharedassets0.assets.resS",
+   "size": 13495104,
+   "src": "C:/Users/Brady/Desktop/offsetTracking CURRENT/Temp/StagingArea/Data/sharedassets0.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "3a6f071668d7a6108c02995e3cfbfc00ca2a7fc4",
+   "pkgpath": "Data/sharedassets1.assets",
+   "size": 233924,
+   "src": "C:/Users/Brady/Desktop/offsetTracking CURRENT/Temp/StagingArea/Data/sharedassets1.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "ecf7718a98d4c65c20aa2e1a3a4bf23912882a70",
+   "pkgpath": "Data/sharedassets1.assets.resS",
+   "size": 5242880,
+   "src": "C:/Users/Brady/Desktop/offsetTracking CURRENT/Temp/StagingArea/Data/sharedassets1.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "3792c8146ec970ba59ddca67d71f7f251cd11591",
+   "pkgpath": "bin/Player.elf",
+   "size": 49535528,
+   "src": "C:/Users/Brady/Desktop/offsetTracking CURRENT/Temp/StagingArea/Player.elf",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\Brady\\Desktop\\offsetTracking CURRENT\\hummer2019.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "b0787692830131383e25686d4a575159537f28e2",
+   "xfrm_path": "C:/Users/Brady/Desktop/offsetTracking CURRENT/.out/.cache/debug_lumin_clang-3.8_aarch64/com.sparrlab.offsettracking-d2b85d577f7a75e3\\Player.elf-4fb46bf68929d93d",
+   "xfrm_size": 49536286
+  },
+  {
+   "compression": 8,
+   "hash": "5925de9f4d7b83c65d1fd7b25ced5f0bf8c27e73",
+   "pkgpath": "bin/libc++_shared.so",
+   "size": 976832,
+   "src": "C:/Users/Brady/MagicLeap/mlsdk/v0.24.1/lumin/stl/libc++/lib/libc++_shared.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\Brady\\Desktop\\offsetTracking CURRENT\\hummer2019.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "f421d22c596d3dc6b82009ba44a9d813113fbd9c",
+   "xfrm_path": "C:/Users/Brady/Desktop/offsetTracking CURRENT/.out/.cache/debug_lumin_clang-3.8_aarch64/com.sparrlab.offsettracking-d2b85d577f7a75e3\\libc++_shared.so-399046193ffa86a6",
+   "xfrm_size": 977590
+  },
+  {
+   "compression": 8,
+   "hash": "a9f23f6ba463f61753c07ea5b4a8dc38bce69e9b",
+   "pkgpath": "manifest.xml",
+   "size": 892,
+   "src": "C:\\Users\\Brady\\Desktop\\offsetTracking CURRENT\\Temp\\StagingArea\\manifest.xml",
+   "xfrm_flags": {
+    "manifest": {
+     "cert_hash": "5441f947896026dc3843e89edb13207831ba7168",
+     "developer_id": "3563f2ef-31f4-471f-9092-8e32add783d0"
+    }
+   },
+   "xfrm_hash": "b2cec5c67f5183b26736f79b6260c8b23946938b",
+   "xfrm_path": "C:/Users/Brady/Desktop/offsetTracking CURRENT/.out/.cache/debug_lumin_clang-3.8_aarch64/com.sparrlab.offsettracking-d2b85d577f7a75e3\\manifest.xml-4fb46bf68929d93d",
+   "xfrm_size": 904
+  }
+ ],
+ "pkgflags": {
+  "signed": {
+   "cert": "C:\\Users\\Brady\\Desktop\\offsetTracking CURRENT\\hummer2019.cert"
+  },
+  "taildata": {
+   "debuggable": true,
+   "devcert": "C:\\Users\\Brady\\Desktop\\offsetTracking CURRENT\\hummer2019.cert",
+   "sbox": "USER",
+   "version": 3
+  }
+ }
+}
