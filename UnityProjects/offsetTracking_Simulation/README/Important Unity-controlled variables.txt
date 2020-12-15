@@ -1,0 +1,5 @@
+Most important variables are stored in planesExample (the object).
+-displayScreenAfterEachTest controls whether the screen becomes visible after an attempted trial.
+-Is Updating controls whether the room planes are updated on application start.  (The program manually updates them when the exploratory phase is entered.)
+
+For testing to be done, zenith must currently be visible.

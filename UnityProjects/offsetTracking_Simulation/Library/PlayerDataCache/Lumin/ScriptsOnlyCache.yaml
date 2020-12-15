@@ -1,0 +1,2398 @@
+ScriptsOnlyBuild:
+  usedScripts:
+    Assembly-CSharp.dll:
+    - CombinedHolder
+    - MagicLeap.CombinedImageTrackingExample
+    - MagicLeap.CombinedImageTrackingVisualizer
+    - MagicLeap.CombinedMasterMaterialController
+    - MagicLeap.ControllerStatsText
+    - MagicLeap.ControllerStatusIndicator
+    - MagicLeap.ControllerStatusText
+    - MagicLeap.DeepSpaceExplorerController
+    - MagicLeap.DeepSpaceExplorerLauncher
+    - MagicLeap.DestroyAfterTime
+    - MagicLeap.MasterMaterialController
+    - MagicLeap.MaterialBlendOffsetController
+    - MagicLeap.MaterialForegroundColorController
+    - MagicLeap.MaterialThresholdController
+    - MagicLeap.MaterialTilingController
+    - MagicLeap.PlaceFromCamera
+    - MagicLeap.PlaneVisualizer
+    - MagicLeap.PlanesExampleNetworked
+    - MagicLeap.PlayerObject
+    - MagicLeap.RaycastVisualizer
+    - MagicLeap.VideoError
+    - RosSharp.RosBridgeClient.ImageSubscriber
+    - RosSharp.RosBridgeClient.PointcloudSubscriber
+    - RosSharp.RosBridgeClient.RosConnector
+    - RosSharp.Urdf.UrdfCollision
+    - RosSharp.Urdf.UrdfCollisions
+    - RosSharp.Urdf.UrdfInertial
+    - RosSharp.Urdf.UrdfLink
+    - RosSharp.Urdf.UrdfVisual
+    - RosSharp.Urdf.UrdfVisuals
+    - UnityEngine.XR.MagicLeap.ComboRaycastHead
+    - UnityEngine.XR.MagicLeap.ControllerConnectionHandler
+    - UnityEngine.XR.MagicLeap.HeadposeCanvas
+    - UnityEngine.XR.MagicLeap.MagicLeapSceneOptimizer
+    - UnityEngine.XR.MagicLeap.Planes
+    - UnityEngine.XR.MagicLeap.PrivilegeDeniedError
+    - UnityEngine.XR.MagicLeap.PrivilegeRequester
+    - shaderSizeEnable
+    LuminMediaPlayer.dll:
+    - UnityEngine.XR.MagicLeap.MLMediaPlayer
+    LuminUnity.dll:
+    - UnityEngine.XR.MagicLeap.MLImageTrackerBehavior
+    Mirror.dll:
+    - Mirror.NetworkIdentity
+    - Mirror.NetworkManager
+    - Mirror.NetworkManagerHUD
+    - Mirror.TelepathyTransport
+    Unity.XR.Management.Editor.dll:
+    - UnityEditor.XR.Management.XRGeneralSettingsPerBuildTarget
+    Unity.XR.Management.dll:
+    - UnityEngine.XR.Management.XRGeneralSettings
+    - UnityEngine.XR.Management.XRManagerSettings
+    UnityEditor.TestRunner.dll:
+    - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
+    - UnityEditor.TestTools.TestRunner.TestListCacheData
+    UnityEngine.SpatialTracking.dll:
+    - UnityEngine.SpatialTracking.TrackedPoseDriver
+    UnityEngine.UI.dll:
+    - UnityEngine.UI.CanvasScaler
+    - UnityEngine.UI.GraphicRaycaster
+    - UnityEngine.UI.Text
+    UnityEngine.XR.MagicLeap.dll:
+    - UnityEngine.XR.MagicLeap.MLSpatialMapper
+    - UnityEngine.XR.MagicLeap.MagicLeapInput
+    - UnityEngine.XR.MagicLeap.MagicLeapLoader
+    - UnityEngine.XR.MagicLeap.Rendering.MagicLeapCamera
+    com.unity.multiplayer-hlapi.Runtime.dll:
+    - UnityEngine.Networking.NetworkCallbacks
+  sceneClasses:
+    Assets/combinedSceneWithSnapshotMirrorNetworking.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 54
+      Script: {instanceID: 0}
+    - Class: 64
+      Script: {instanceID: 0}
+    - Class: 65
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
+    - Class: 90
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 96
+      Script: {instanceID: 0}
+    - Class: 102
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 21736}
+    - Class: 114
+      Script: {instanceID: 21738}
+    - Class: 114
+      Script: {instanceID: 21788}
+    - Class: 114
+      Script: {instanceID: 21790}
+    - Class: 114
+      Script: {instanceID: 21798}
+    - Class: 114
+      Script: {instanceID: 21884}
+    - Class: 114
+      Script: {instanceID: 21892}
+    - Class: 114
+      Script: {instanceID: 21902}
+    - Class: 114
+      Script: {instanceID: 22058}
+    - Class: 114
+      Script: {instanceID: 22064}
+    - Class: 114
+      Script: {instanceID: 22084}
+    - Class: 114
+      Script: {instanceID: 22098}
+    - Class: 114
+      Script: {instanceID: 22146}
+    - Class: 114
+      Script: {instanceID: 22270}
+    - Class: 114
+      Script: {instanceID: 22430}
+    - Class: 114
+      Script: {instanceID: 22618}
+    - Class: 114
+      Script: {instanceID: 22632}
+    - Class: 114
+      Script: {instanceID: 22684}
+    - Class: 114
+      Script: {instanceID: 22734}
+    - Class: 114
+      Script: {instanceID: 22738}
+    - Class: 114
+      Script: {instanceID: 22812}
+    - Class: 114
+      Script: {instanceID: 22838}
+    - Class: 114
+      Script: {instanceID: 23016}
+    - Class: 114
+      Script: {instanceID: 23030}
+    - Class: 114
+      Script: {instanceID: 23036}
+    - Class: 114
+      Script: {instanceID: 23076}
+    - Class: 114
+      Script: {instanceID: 23138}
+    - Class: 114
+      Script: {instanceID: 23212}
+    - Class: 114
+      Script: {instanceID: 23270}
+    - Class: 114
+      Script: {instanceID: 23322}
+    - Class: 114
+      Script: {instanceID: 23338}
+    - Class: 114
+      Script: {instanceID: 23396}
+    - Class: 114
+      Script: {instanceID: 23482}
+    - Class: 114
+      Script: {instanceID: 23500}
+    - Class: 114
+      Script: {instanceID: 23660}
+    - Class: 114
+      Script: {instanceID: 23760}
+    - Class: 114
+      Script: {instanceID: 23854}
+    - Class: 114
+      Script: {instanceID: 23884}
+    - Class: 114
+      Script: {instanceID: 23886}
+    - Class: 114
+      Script: {instanceID: 24006}
+    - Class: 114
+      Script: {instanceID: 24040}
+    - Class: 114
+      Script: {instanceID: 24176}
+    - Class: 114
+      Script: {instanceID: 24224}
+    - Class: 114
+      Script: {instanceID: 24254}
+    - Class: 114
+      Script: {instanceID: 24310}
+    - Class: 114
+      Script: {instanceID: 24384}
+    - Class: 114
+      Script: {instanceID: 24566}
+    - Class: 114
+      Script: {instanceID: 24618}
+    - Class: 114
+      Script: {instanceID: 24724}
+    - Class: 114
+      Script: {instanceID: 24882}
+    - Class: 114
+      Script: {instanceID: 38400}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 124
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 135
+      Script: {instanceID: 0}
+    - Class: 136
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 212
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    - Class: 258
+      Script: {instanceID: 0}
+    Assets/networkLobbySceneMirrorNetworking.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 64
+      Script: {instanceID: 0}
+    - Class: 65
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 84
+      Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
+    - Class: 90
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 21788}
+    - Class: 114
+      Script: {instanceID: 21790}
+    - Class: 114
+      Script: {instanceID: 21798}
+    - Class: 114
+      Script: {instanceID: 21902}
+    - Class: 114
+      Script: {instanceID: 22064}
+    - Class: 114
+      Script: {instanceID: 22084}
+    - Class: 114
+      Script: {instanceID: 22146}
+    - Class: 114
+      Script: {instanceID: 22270}
+    - Class: 114
+      Script: {instanceID: 22618}
+    - Class: 114
+      Script: {instanceID: 22632}
+    - Class: 114
+      Script: {instanceID: 22684}
+    - Class: 114
+      Script: {instanceID: 22734}
+    - Class: 114
+      Script: {instanceID: 22838}
+    - Class: 114
+      Script: {instanceID: 23030}
+    - Class: 114
+      Script: {instanceID: 23076}
+    - Class: 114
+      Script: {instanceID: 23482}
+    - Class: 114
+      Script: {instanceID: 23760}
+    - Class: 114
+      Script: {instanceID: 23854}
+    - Class: 114
+      Script: {instanceID: 23878}
+    - Class: 114
+      Script: {instanceID: 23886}
+    - Class: 114
+      Script: {instanceID: 24006}
+    - Class: 114
+      Script: {instanceID: 24040}
+    - Class: 114
+      Script: {instanceID: 24224}
+    - Class: 114
+      Script: {instanceID: 24310}
+    - Class: 114
+      Script: {instanceID: 24724}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 124
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 136
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 212
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    - Class: 258
+      Script: {instanceID: 0}
+  scriptHashData:
+  - hash:
+      serializedVersion: 2
+      Hash: 43dc8be0f5b16bc4674dfa0ba3a2f9f4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: ImageTrackingExample
+  - hash:
+      serializedVersion: 2
+      Hash: 2fcc75e62707c455947a9e77f941c29b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: CombinedImageTrackingExampleV2
+  - hash:
+      serializedVersion: 2
+      Hash: e66bcf0f6cb856966fc3568807840bd3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: CombinedPlanesExample
+  - hash:
+      serializedVersion: 2
+      Hash: 63911722392c3b282ebec1129e41411d
+    assemblyName: LuminUnity.dll
+    namespaceName: UnityEngine.XR.MagicLeap
+    className: MLHandMeshingBehavior
+  - hash:
+      serializedVersion: 2
+      Hash: ffe4fc643100d80aad6aaea48a738498
+    assemblyName: LuminUnity.dll
+    namespaceName: UnityEngine.XR.MagicLeap
+    className: MLIdentityProfile
+  - hash:
+      serializedVersion: 2
+      Hash: e7fa06272bc9ad52d94ac29521927b42
+    assemblyName: LuminUnity.dll
+    namespaceName: UnityEngine.XR.MagicLeap
+    className: MLImageTrackerBehavior
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: LuminMediaPlayer.dll
+    namespaceName: UnityEngine.XR.MagicLeap
+    className: MLMediaPlayer
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: LuminMediaPlayer.dll
+    namespaceName: UnityEngine.XR.MagicLeap
+    className: MLMediaPlayerEditor
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: LuminMediaPlayer.dll
+    namespaceName: UnityEngine.XR.MagicLeap
+    className: MLMediaPlayerLumin
+  - hash:
+      serializedVersion: 2
+      Hash: 8f986340209843d4b365c3659ac5facc
+    assemblyName: MSA.Runtime.dll
+    namespaceName: MSA
+    className: MSAListener
+  - hash:
+      serializedVersion: 2
+      Hash: 41d89aa4d10fe8a8266e982ca2c20c40
+    assemblyName: MSA.Runtime.dll
+    namespaceName: MSA
+    className: MSASource
+  - hash:
+      serializedVersion: 2
+      Hash: 66c879896b396b854292246b775ee40d
+    assemblyName: RealSense.dll
+    namespaceName: 
+    className: DepthCutoff
+  - hash:
+      serializedVersion: 2
+      Hash: 3a80da985e1a1dfd8bebd5a7f9b8da1a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: RosSharp.RosBridgeClient
+    className: JointStatePatcher
+  - hash:
+      serializedVersion: 2
+      Hash: 57645dcee79b0ba684e178eb6b7880d6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: PersistenceExample
+  - hash:
+      serializedVersion: 2
+      Hash: 25a6891c8318d80586b9cc7588ed171b
+    assemblyName: Mirror.dll
+    namespaceName: Mirror
+    className: TelepathyTransport
+  - hash:
+      serializedVersion: 2
+      Hash: 4bc4346a71a8df53a6b106f68ef3a190
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: CanvasScaler
+  - hash:
+      serializedVersion: 2
+      Hash: d9e963ad9ad2bd2a075ddb31551b8da4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: UnityEngine.XR.MagicLeap
+    className: MagicLeapSceneOptimizer
+  - hash:
+      serializedVersion: 2
+      Hash: 1d09d5f96e65568019e18bf7dcb26cc4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: LightTrackingExample
+  - hash:
+      serializedVersion: 2
+      Hash: 984dcc0ba3707b7691fbdca8ff508d28
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SelectionCaret
+  - hash:
+      serializedVersion: 2
+      Hash: a25ad252d1d62127b0f5c6d17181f1c2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LaserScanVisualizerLines
+  - hash:
+      serializedVersion: 2
+      Hash: 87ff43d2baf3385cba327d8f803a4ebb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AudioPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: bf530eb47e6a86dcee1d42e40c3b7ac8
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: 358445ef3a8fe8a4401efe396a7bc208
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: RosSharp.RosBridgeClient
+    className: FibonacciActionClient
+  - hash:
+      serializedVersion: 2
+      Hash: 4e55399bb1b81f08ab790913f62fbbac
+    assemblyName: Mirror.dll
+    namespaceName: Mirror
+    className: NetworkManagerHUD
+  - hash:
+      serializedVersion: 2
+      Hash: 7309a78bf549b28c0c4cd1b8673c2e52
+    assemblyName: RealSense.dll
+    namespaceName: 
+    className: RsDevice
+  - hash:
+      serializedVersion: 2
+      Hash: d5bca073fded2c03fb07d47e0ac0eee6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CombinedHolder
+  - hash:
+      serializedVersion: 2
+      Hash: 3d19d32937527bc486ef051b3b87085b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: PlaneVisualizer
+  - hash:
+      serializedVersion: 2
+      Hash: 192ca9716d03752ea1d90a78bc2daac9
+    assemblyName: Mirror.Examples.dll
+    namespaceName: Mirror.Examples.NetworkRoom
+    className: RandomColor
+  - hash:
+      serializedVersion: 2
+      Hash: 5fe119d293575ec2bf4ece2ffebdf53d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: LocationExample
+  - hash:
+      serializedVersion: 2
+      Hash: 2f6ac73f0b768f793e83fa338c167ba7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: ImageCaptureVisualizer
+  - hash:
+      serializedVersion: 2
+      Hash: 5bd9a19c7b5f76c563418e28f48a561b
+    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
+    namespaceName: UnityEngine.Networking
+    className: NetworkLobbyPlayer
+  - hash:
+      serializedVersion: 2
+      Hash: e7a73f5f78ba6445195ec23b74a1ce2d
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_ScrollbarEventHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 5503f57feab25077a1e1b713b64d36fb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: RosSharp.Urdf
+    className: UrdfJointPrismatic
+  - hash:
+      serializedVersion: 2
+      Hash: 229b8640d882292e90f94e00eeebe282
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: RosSharp
+    className: HingeJointLimitsManager
+  - hash:
+      serializedVersion: 2
+      Hash: eb9e20e509c41cb36f9b34529b96af2f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: FaceTargetPosition
+  - hash:
+      serializedVersion: 2
+      Hash: 04e4a8b0447477cc4e933d9e5311188f
+    assemblyName: UnityEngine.XR.LegacyInputHelpers.dll
+    namespaceName: UnityEngine.XR.LegacyInputHelpers
+    className: ArmModel
+  - hash:
+      serializedVersion: 2
+      Hash: 0346ec695c6090c3144ff66c21fd753c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: screenCamera
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: GroupTrack
+  - hash:
+      serializedVersion: 2
+      Hash: b2b3cb007bf9c2e1dc808ce843effeca
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: PCFStatusText
+  - hash:
+      serializedVersion: 2
+      Hash: b18f0d55b218ff8d17c2c7411b02c1bf
+    assemblyName: Mirror.Examples.dll
+    namespaceName: Mirror.Examples.Additive
+    className: PlayerController
+  - hash:
+      serializedVersion: 2
+      Hash: 1a8c05be681aa4e8368b777216a2d9c6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: UnityEngine.XR.MagicLeap
+    className: ComboRaycastController
+  - hash:
+      serializedVersion: 2
+      Hash: dde7d3b546272d2c7a41de2126ee7ec6
+    assemblyName: Pcx.dll
+    namespaceName: Pcx
+    className: PointCloudData
+  - hash:
+      serializedVersion: 2
+      Hash: a5781dc71a671b1ad2b38de19f24b71f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ActivationTrack
+  - hash:
+      serializedVersion: 2
+      Hash: c87bfe73eb7e91125825297cd7cb3df8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: DeepSpaceExplorerController
+  - hash:
+      serializedVersion: 2
+      Hash: 8eb11f41c8ff401e699b7cf075ef1775
+    assemblyName: Mirror.dll
+    namespaceName: Mirror
+    className: NetworkManager
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: PersistentBall
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Mirror.dll
+    namespaceName: Mirror
+    className: NetworkStartPosition
+  - hash:
+      serializedVersion: 2
+      Hash: fc108ce7d98c40ac0907e8ca7f500c76
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Text
+  - hash:
+      serializedVersion: 2
+      Hash: 06a330481ec400be50745bb7faf76bd0
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Scrollbar
+  - hash:
+      serializedVersion: 2
+      Hash: 145551d34f1a016369f6f322f3a4fb6d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: RosSharp.Urdf
+    className: UrdfCollision
+  - hash:
+      serializedVersion: 2
+      Hash: eafb77726b67b7571818a7210a3ce11e
+    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
+    namespaceName: UnityEngine.Networking
+    className: NetworkIdentity
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: PositionAsUV1
+  - hash:
+      serializedVersion: 2
+      Hash: abf1930d8126d0b2e00e9449129a0190
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: TouchInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: 98aa0a0c8ff2910eb12af89c7e0eb661
+    assemblyName: Unity.XR.Management.dll
+    namespaceName: UnityEngine.XR.Management
+    className: XRGeneralSettings
+  - hash:
+      serializedVersion: 2
+      Hash: 03323509032488da3f4878a9e6cf78dd
+    assemblyName: Utils.dll
+    namespaceName: 
+    className: NamedTextureBinding
+  - hash:
+      serializedVersion: 2
+      Hash: 08266085270a8abc8b61f2359398b5b8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: RaycastVisualizer
+  - hash:
+      serializedVersion: 2
+      Hash: 9acaadb1599638e31fc5f7159734330a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: ControllerStatsText
+  - hash:
+      serializedVersion: 2
+      Hash: 89498a9a4a6296605faa18a2c5f758a4
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Image
+  - hash:
+      serializedVersion: 2
+      Hash: 8f2f1d30714d893174eb365f1e8fe726
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: RosSharp.RosBridgeClient
+    className: GetParamServiceProvider
+  - hash:
+      serializedVersion: 2
+      Hash: 870bdfc9028a850b6e40ea17db08772b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: RosSharp.RosBridgeClient
+    className: LaserScanSubscriber
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: TestResultRendererCallback
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: RosSharp.RosBridgeClient
+    className: LaserScanWriter
+  - hash:
+      serializedVersion: 2
+      Hash: 4a360b7c0cdb8a5ae59077e92f0db32a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: PCFVisualizer
+  - hash:
+      serializedVersion: 2
+      Hash: 9e70ecf91466f07d9bd649be625cae52
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_InputField
+  - hash:
+      serializedVersion: 2
+      Hash: ad9173d3a69d99153f38ed4b62226129
+    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
+    namespaceName: UnityEngine.Networking
+    className: NetworkTransform
+  - hash:
+      serializedVersion: 2
+      Hash: b300185396ca1e0231bd4f070140561c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: RosSharp.RosBridgeClient
+    className: PoseStampedPublisher
+  - hash:
+      serializedVersion: 2
+      Hash: fc5a4de027bdcf90030970ab3248bf9a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: VideoCaptureVisualizer
+  - hash:
+      serializedVersion: 2
+      Hash: 7ab0e790220bdca831fdd886b339039d
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: GridLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 6f53181ed28e0f312591f423a0fe1bbc
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: RaycastExample
+  - hash:
+      serializedVersion: 2
+      Hash: 9acaadb1599638e31fc5f7159734330a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: ControllerStatusText
+  - hash:
+      serializedVersion: 2
+      Hash: 0e72140ec58a63877828f11ae223bc13
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: ContentBindingVisualizer
+  - hash:
+      serializedVersion: 2
+      Hash: c6eddc394a40f6e55d69edd3361f24d3
+    assemblyName: RealSense.dll
+    namespaceName: 
+    className: RsColorizer
+  - hash:
+      serializedVersion: 2
+      Hash: 166b6d901556b29e7924c221c8ee2fb2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: InputExample
+  - hash:
+      serializedVersion: 2
+      Hash: f3a8ccc18ad656ac8993b34a1b30984f
+    assemblyName: Mirror.Examples.dll
+    namespaceName: Mirror.Examples.NetworkRoom
+    className: NetworkRoomPlayerExt
+  - hash:
+      serializedVersion: 2
+      Hash: d5b39c54cd3b8db955940e7482d69ad7
+    assemblyName: Mirror.Examples.dll
+    namespaceName: Mirror.Examples.NetworkRoom
+    className: Spawner
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.XR.MagicLeap.dll
+    namespaceName: UnityEngine.XR.MagicLeap.Rendering
+    className: StabilizationComponent
+  - hash:
+      serializedVersion: 2
+      Hash: 85e89b51b107daea862016231064d6c3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: RosSharp.Urdf
+    className: UrdfRobot
+  - hash:
+      serializedVersion: 2
+      Hash: 8aa3d6ccbcb54ee8db6c1229854adaaa
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ContentSizeFitter
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalAsset
+  - hash:
+      serializedVersion: 2
+      Hash: f4ab19641a0bd16f4f9d33bae5274a98
+    assemblyName: Utils.dll
+    namespaceName: 
+    className: StringFloatBinding
+  - hash:
+      serializedVersion: 2
+      Hash: 43bfefd4c5cb8d45891032f793e0f5de
+    assemblyName: RealSense.dll
+    namespaceName: 
+    className: RsTemporalFilter
+  - hash:
+      serializedVersion: 2
+      Hash: 0dbc3be398b4869a5c8d0d8481ee402c
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: LayoutElement
+  - hash:
+      serializedVersion: 2
+      Hash: 18c222bef9ae745ce69ddde9b74337ca
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: PhysicsRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: ContentDragController
+  - hash:
+      serializedVersion: 2
+      Hash: 7ba93154a976302456dbcebe19d77e13
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: PlaceFromCamera
+  - hash:
+      serializedVersion: 2
+      Hash: a9dc0ed6c3373f4e05c89540a0d428c1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: ContactsExample
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: RosSharp.RosBridgeClient
+    className: JointStateReader
+  - hash:
+      serializedVersion: 2
+      Hash: 7947915efb9d887797950a993a657b2d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: CombinedImageTrackingVisualizerV2
+  - hash:
+      serializedVersion: 2
+      Hash: bd3cf68c8964d3c66d1c43f4f98508c9
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AnimationTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 3f0b469d844365c00a63de0437c9b29e
+    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
+    namespaceName: UnityEngine.Networking
+    className: NetworkProximityChecker
+  - hash:
+      serializedVersion: 2
+      Hash: 0025675a311559f481c1e281095d1264
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: ContactsTextField
+  - hash:
+      serializedVersion: 2
+      Hash: cf9f5cf2c3145a37ac07f00e50e460f9
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: AspectRatioFitter
+  - hash:
+      serializedVersion: 2
+      Hash: 2073888994bcbc2d97ddf4de5cd4fec0
+    assemblyName: Pcx.dll
+    namespaceName: Pcx
+    className: BakedPointCloud
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: RectMask2D
+  - hash:
+      serializedVersion: 2
+      Hash: 28df2042e796f19c23dba2f93cb21daf
+    assemblyName: Mirror.dll
+    namespaceName: Mirror.Websocket
+    className: WebsocketTransport
+  - hash:
+      serializedVersion: 2
+      Hash: 00274a21279f5cb831ce20f895049e38
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SubMeshUI
+  - hash:
+      serializedVersion: 2
+      Hash: 52bcb9c2a78bdd8d98a59e915c346e75
+    assemblyName: UnityEngine.XR.LegacyInputHelpers.dll
+    namespaceName: UnityEngine.XR.LegacyInputHelpers
+    className: TransitionArmModel
+  - hash:
+      serializedVersion: 2
+      Hash: acdc8e683b7737e4b5c5ac81d9b6493d
+    assemblyName: Utils.dll
+    namespaceName: 
+    className: BoolInvert
+  - hash:
+      serializedVersion: 2
+      Hash: 5ab533713adae59372fb3e10a585c186
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AnimationPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 01ff7b4bc6bb1772d2572b8e937f6973
+    assemblyName: RealSense.dll
+    namespaceName: 
+    className: RsAlign
+  - hash:
+      serializedVersion: 2
+      Hash: 7fc9e11cc6d2944254bf4047c94916cc
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: UnityEngine.XR.MagicLeap
+    className: PrivilegeRequester
+  - hash:
+      serializedVersion: 2
+      Hash: 592e1fe0fc5e388550e888c34d23f431
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: MaterialBlendOffsetController
+  - hash:
+      serializedVersion: 2
+      Hash: 192ca9716d03752ea1d90a78bc2daac9
+    assemblyName: Mirror.Examples.dll
+    namespaceName: Mirror.Examples.Additive
+    className: RandomColor
+  - hash:
+      serializedVersion: 2
+      Hash: 3e3208bdc511d0807c8e3c28ae933a35
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: ContactPage
+  - hash:
+      serializedVersion: 2
+      Hash: 9999886d26a4dcaa3ee65b8109f38d4c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: TransformFollower
+  - hash:
+      serializedVersion: 2
+      Hash: aba7b2852ef61d175dd9602e7723d5e5
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Mask
+  - hash:
+      serializedVersion: 2
+      Hash: b3c4d6d2ec3bf1231fdecd4daaab21da
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: MediaPlayerToggle
+  - hash:
+      serializedVersion: 2
+      Hash: 82b463d8677042ebb2ffe9c9954adbc2
+    assemblyName: Utils.dll
+    namespaceName: 
+    className: GetMaterialFloat
+  - hash:
+      serializedVersion: 2
+      Hash: f24783ee570eed24fd8d616ee6dde153
+    assemblyName: Mirror.dll
+    namespaceName: Mirror
+    className: MultiplexTransport
+  - hash:
+      serializedVersion: 2
+      Hash: d251bf88db6c95a6b1aa0b69298da9ef
+    assemblyName: UnityEngine.SpatialTracking.dll
+    namespaceName: UnityEngine.SpatialTracking
+    className: TrackedPoseDriver
+  - hash:
+      serializedVersion: 2
+      Hash: caa533b001ae39b864ba8425019e2268
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Shadow
+  - hash:
+      serializedVersion: 2
+      Hash: 31bd92eaf0472a56b67918136d592dba
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: MaterialThresholdController
+  - hash:
+      serializedVersion: 2
+      Hash: 5c15f66853a446c1995b5508c9c7fa28
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: RosSharp.Urdf
+    className: UrdfLink
+  - hash:
+      serializedVersion: 2
+      Hash: 46a84c291fdf84c8f21e18173239c227
+    assemblyName: Utils.dll
+    namespaceName: 
+    className: BoolToFloat
+  - hash:
+      serializedVersion: 2
+      Hash: a7c91ead796087612ab9b5731410c7c5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: HandTrackingExample
+  - hash:
+      serializedVersion: 2
+      Hash: 47017f50e68a187482d36814f786e6f1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: WorldScaleExample
+  - hash:
+      serializedVersion: 2
+      Hash: e5f197366ebb5b163911a40c81ba8e80
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: ScreensExample
+  - hash:
+      serializedVersion: 2
+      Hash: 86f5d7b9ddb7c891a16da7ada4eadd2d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: UnityEngine.XR.MagicLeap
+    className: WorldRaycastHead
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: connectToServer
+  - hash:
+      serializedVersion: 2
+      Hash: e66bcf0f6cb856966fc3568807840bd3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: CombinedPlanesExampleV2
+  - hash:
+      serializedVersion: 2
+      Hash: a962c73c6cc78d6d221f2273cab0916d
+    assemblyName: Mirror.Examples.dll
+    namespaceName: Mirror.Examples.ListServer
+    className: ListServer
+  - hash:
+      serializedVersion: 2
+      Hash: f6d23e7c429ab83893c214c46122c616
+    assemblyName: Utils.dll
+    namespaceName: 
+    className: OrbitCameraControl
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.XR.MagicLeap.dll
+    namespaceName: UnityEngine.XR.MagicLeap
+    className: MagicLeapInput
+  - hash:
+      serializedVersion: 2
+      Hash: cc4274b586df3c02688bac01b88bd16c
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: EventSystem
+  - hash:
+      serializedVersion: 2
+      Hash: 0fb27be807aa299702f28ad0bcad1f46
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ControlPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 25ec9314fcfe6a30cf53eb98bc10a4e2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: UnityEngine.XR.MagicLeap
+    className: HeadposeCanvas
+  - hash:
+      serializedVersion: 2
+      Hash: 6a1ac2513fac248dc933dd6430f35d63
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: UnityEngine.XR.MagicLeap
+    className: WorldScale
+  - hash:
+      serializedVersion: 2
+      Hash: 5fb014f35f3a0be2d737bf91f425a17d
+    assemblyName: Utils.dll
+    namespaceName: 
+    className: MinMaxSlider
+  - hash:
+      serializedVersion: 2
+      Hash: 31679c6b31a3683fdc7d2d4ecf692d02
+    assemblyName: RealSense.dll
+    namespaceName: 
+    className: RsPointCloud
+  - hash:
+      serializedVersion: 2
+      Hash: 7319d5dac7468d8d923be2189f32d1b6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: MobileAppExample
+  - hash:
+      serializedVersion: 2
+      Hash: b8a5e8091ab0b8861d2add371082c5e0
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SpriteAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Utils.dll
+    namespaceName: 
+    className: MoveAlongZ
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ControlTrack
+  - hash:
+      serializedVersion: 2
+      Hash: e1e30f55d022255bc46c0ac75525597c
+    assemblyName: RealSense.dll
+    namespaceName: 
+    className: RsPoseStreamTransformer
+  - hash:
+      serializedVersion: 2
+      Hash: 8dc90e648ac06f43bdd31ac9fa8f4579
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Selectable
+  - hash:
+      serializedVersion: 2
+      Hash: 6269de7b2e8700c47e4b84336de4b7eb
+    assemblyName: Mirror.Examples.dll
+    namespaceName: Mirror.Examples.Additive
+    className: ZoneHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 2ff63c6dc445e346b82540e6c29d6027
+    assemblyName: Mirror.Components.dll
+    namespaceName: Mirror
+    className: NetworkRoomManager
+  - hash:
+      serializedVersion: 2
+      Hash: 7fd0798cdf7e007e2b155031812c33ec
+    assemblyName: Utils.dll
+    namespaceName: 
+    className: RsStreamAvailability
+  - hash:
+      serializedVersion: 2
+      Hash: 991d2e8f56cd6070136c2ea5db7ccd6d
+    assemblyName: Mirror.Examples.dll
+    namespaceName: Mirror.Examples.Tanks
+    className: Tank
+  - hash:
+      serializedVersion: 2
+      Hash: a25ad252d1d62127b0f5c6d17181f1c2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: RosSharp.SensorVisualization
+    className: LaserScanVisualizerSpheres
+  - hash:
+      serializedVersion: 2
+      Hash: be54fe3c504eb4354238744417ca7c2d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: RosSharp.RosBridgeClient
+    className: TwistSubscriber
+  - hash:
+      serializedVersion: 2
+      Hash: 265cf27ba050d55ff33a8acab4ded6c0
+    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
+    namespaceName: UnityEngine.Networking
+    className: NetworkLobbyManager
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: RosSharp.Urdf
+    className: UrdfCollisions
+  - hash:
+      serializedVersion: 2
+      Hash: ac7ab2ea4c8b32e359b107a2eb0c8549
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: RosSharp.RosBridgeClient
+    className: LaserScanPublisher
+  - hash:
+      serializedVersion: 2
+      Hash: 5887ef1bc706b22b773d253fd443ceef
+    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
+    namespaceName: UnityEngine.Networking
+    className: NetworkTransformVisualizer
+  - hash:
+      serializedVersion: 2
+      Hash: 048bdb34e5cafd7a4cfeac11800a1add
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: ControllerStatusIndicator
+  - hash:
+      serializedVersion: 2
+      Hash: 2849d0e645a763ebfcd95ad22bfa2546
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: UnityEngine.XR.MagicLeap
+    className: WorldRaycastController
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: RosSharp.Urdf
+    className: UrdfVisuals
+  - hash:
+      serializedVersion: 2
+      Hash: 2564c57c5099f451ac8b18c2172c26ec
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: MusicServiceExample
+  - hash:
+      serializedVersion: 2
+      Hash: 4f07d984a781b6b2f93aab25595d68d7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: RosSharp.RosBridgeClient
+    className: OdometrySubscriber
+  - hash:
+      serializedVersion: 2
+      Hash: 31bd92eaf0472a56b67918136d592dba
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: MaterialTilingController
+  - hash:
+      serializedVersion: 2
+      Hash: 130a05921ebd58f8fde5382619e3bf5e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: RosSharp.RosBridgeClient
+    className: FibonacciActionServer
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: RosSharp.RosBridgeClient
+    className: JointStateWriter
+  - hash:
+      serializedVersion: 2
+      Hash: dce761e73f3059c170256a3093bb0682
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: RosSharp.RosBridgeClient
+    className: JoyAxisJointTransformWriter
+  - hash:
+      serializedVersion: 2
+      Hash: b3ab2106268377ffe25dd18ac23dca28
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_Asset
+  - hash:
+      serializedVersion: 2
+      Hash: 134de87fe571dc7e17b1326e504f3642
+    assemblyName: UnityEngine.XR.MagicLeap.dll
+    namespaceName: UnityEngine.XR.MagicLeap
+    className: MLSpatialMapper
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Utils.dll
+    namespaceName: 
+    className: RsDeviceListener
+  - hash:
+      serializedVersion: 2
+      Hash: 78c24f845da67d7589bbd61392773c4a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: UnityEngine.XR.MagicLeap
+    className: Placement
+  - hash:
+      serializedVersion: 2
+      Hash: 97ace6213ad0f149b0917a4c669c6ca3
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ScrollRect
+  - hash:
+      serializedVersion: 2
+      Hash: 758dd06addb323cfbb1833afd369e151
+    assemblyName: UnityEngine.XR.MagicLeap.dll
+    namespaceName: UnityEngine.XR.MagicLeap
+    className: MagicLeapSettings
+  - hash:
+      serializedVersion: 2
+      Hash: 275eb9b2dda334067940d107632455c1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: PathAroundObject
+  - hash:
+      serializedVersion: 2
+      Hash: ed1e115e570577b5e7e8418672f399aa
+    assemblyName: Utils.dll
+    namespaceName: 
+    className: GetMaterialInt
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 3ef60c3684fc76cdc485e450660c3aa6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: DeepSpaceExplorerLauncher
+  - hash:
+      serializedVersion: 2
+      Hash: 5503f57feab25077a1e1b713b64d36fb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: RosSharp.Urdf
+    className: UrdfJointRevolute
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
+    namespaceName: UnityEngine.Networking
+    className: NetworkCallbacks
+  - hash:
+      serializedVersion: 2
+      Hash: 67c6133c6af2443af40454cecd99aad6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: RosSharp.RosBridgeClient
+    className: ImageSubscriber
+  - hash:
+      serializedVersion: 2
+      Hash: c3f50d4af56263cd729aceaf1500aa8c
+    assemblyName: Mirror.Authenticators.dll
+    namespaceName: Mirror.Authenticators
+    className: BasicAuthenticator
+  - hash:
+      serializedVersion: 2
+      Hash: f60a76d1d8f8da4a3a66e21b0e5903e3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: RawVideoCaptureExample
+  - hash:
+      serializedVersion: 2
+      Hash: 21e871d89bbce53c038fc75ad1b7c7f3
+    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
+    namespaceName: UnityEngine.Networking
+    className: NetworkManager
+  - hash:
+      serializedVersion: 2
+      Hash: 0083cb008925d54a6c989e91c154707d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: RosSharp.Urdf
+    className: UrdfPlugin
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SpriteAnimator
+  - hash:
+      serializedVersion: 2
+      Hash: d49d0054e89ec414c1be8807b5cb4572
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: DestroyAfterTime
+  - hash:
+      serializedVersion: 2
+      Hash: 86f5d7b9ddb7c891a16da7ada4eadd2d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: UnityEngine.XR.MagicLeap
+    className: WorldRaycastEyes
+  - hash:
+      serializedVersion: 2
+      Hash: cfdb76b0a25130bf60824bc7a7448285
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: RosSharp.Urdf
+    className: UrdfVisual
+  - hash:
+      serializedVersion: 2
+      Hash: e87f50864f8a979f1228e8c69bd62658
+    assemblyName: Mirror.Examples.dll
+    namespaceName: Mirror.Examples.Pong
+    className: Ball
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: RemoteTestResultSender
+  - hash:
+      serializedVersion: 2
+      Hash: 7947915efb9d887797950a993a657b2d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: ImageTrackingVisualizer
+  - hash:
+      serializedVersion: 2
+      Hash: dee2c4350679a83dfcbae902c1a0dfb5
+    assemblyName: RealSense.dll
+    namespaceName: 
+    className: RsDisparityTransform
+  - hash:
+      serializedVersion: 2
+      Hash: a90b2d3a779f496a1790bdc54fcab446
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: CombinedImageTrackingExample
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Utils.dll
+    namespaceName: 
+    className: SceneLoader
+  - hash:
+      serializedVersion: 2
+      Hash: b18f0d55b218ff8d17c2c7411b02c1bf
+    assemblyName: Mirror.Examples.dll
+    namespaceName: Mirror.Examples.NetworkRoom
+    className: PlayerController
+  - hash:
+      serializedVersion: 2
+      Hash: 4fd8bf02e3089425d3502e26c44ba31a
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextContainer
+  - hash:
+      serializedVersion: 2
+      Hash: 7e688142093d4676b126043b32c5fc76
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: SpriteSequenceAnimation
+  - hash:
+      serializedVersion: 2
+      Hash: 516824a435828eadd660ef2f1658a48e
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Button
+  - hash:
+      serializedVersion: 2
+      Hash: dfb0db679345844488d2049da30c7508
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: PlanesExampleNetworked
+  - hash:
+      serializedVersion: 2
+      Hash: 4c790fa3b7c93033baa4406ca5ac8c04
+    assemblyName: Mirror.Examples.dll
+    namespaceName: Mirror.Examples.NetworkRoom
+    className: Reward
+  - hash:
+      serializedVersion: 2
+      Hash: 940e9d1e653b56909ba624a694765cc6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: KeyPoseVisualizer
+  - hash:
+      serializedVersion: 2
+      Hash: 67c6133c6af2443af40454cecd99aad6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: RosSharp.RosBridgeClient
+    className: PointcloudSubscriber
+  - hash:
+      serializedVersion: 2
+      Hash: 92da9881aed190e8bb74661bcd74aa2c
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: RawImage
+  - hash:
+      serializedVersion: 2
+      Hash: c177d6dc65292742571518e34ec88561
+    assemblyName: Mirror.dll
+    namespaceName: Mirror
+    className: LLAPITransport
+  - hash:
+      serializedVersion: 2
+      Hash: cf9629c79efd3deebc609c9132175e02
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LaserScanVisualizerMesh
+  - hash:
+      serializedVersion: 2
+      Hash: f5589370c676c5a9b016d3d189b91e32
+    assemblyName: Mirror.Components.dll
+    namespaceName: Mirror
+    className: NetworkAnimator
+  - hash:
+      serializedVersion: 2
+      Hash: 79f0a562595529ad864264afc18cf53f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: PlacementObject
+  - hash:
+      serializedVersion: 2
+      Hash: 30dfe660abfd295d462ffdf7caabbf7d
+    assemblyName: RealSense.dll
+    namespaceName: 
+    className: RsHoleFillingFilter
+  - hash:
+      serializedVersion: 2
+      Hash: 97d2557278590beea2e2933c02982e07
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: ControllerVisualizer
+  - hash:
+      serializedVersion: 2
+      Hash: 8a1cc88a1b93cb83cb6597e20c3e9748
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: RosSharp.RosBridgeClient
+    className: JoySubscriber
+  - hash:
+      serializedVersion: 2
+      Hash: 6f0e3a400e15ada335ba87d4688ff2e3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: UnityEngine.XR.MagicLeap
+    className: HandTracking
+  - hash:
+      serializedVersion: 2
+      Hash: 5ad4aa237d47ac2bab17bacb672edf7a
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: VerticalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: eac46bad6dbe5f22ac178ecd7dda86de
+    assemblyName: Utils.dll
+    namespaceName: 
+    className: FloatToStringFormat
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: RosSharp.Urdf
+    className: UrdfPlugins
+  - hash:
+      serializedVersion: 2
+      Hash: 7947915efb9d887797950a993a657b2d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: CombinedImageTrackingVisualizer
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
+    namespaceName: UnityEngine.Networking
+    className: NetworkStartPosition
+  - hash:
+      serializedVersion: 2
+      Hash: 41fb2e67b37bc75150d7a60f6652ef59
+    assemblyName: RealSense.dll
+    namespaceName: 
+    className: RsProcessingProfile
+  - hash:
+      serializedVersion: 2
+      Hash: e66bcf0f6cb856966fc3568807840bd3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: PlanesExample
+  - hash:
+      serializedVersion: 2
+      Hash: f3a8ccc18ad656ac8993b34a1b30984f
+    assemblyName: Mirror.Components.dll
+    namespaceName: Mirror
+    className: NetworkRoomPlayer
+  - hash:
+      serializedVersion: 2
+      Hash: 0fa2ece256be4a558b3ea0e8e7b085d2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: UnityEngine.XR.MagicLeap
+    className: ComboRaycastHead
+  - hash:
+      serializedVersion: 2
+      Hash: 603c8b8304cc29c03b2725254a87efa8
+    assemblyName: Mirror.Examples.dll
+    namespaceName: Mirror.Examples.Additive
+    className: AdditiveNetworkManager
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: EnablePointSize
+  - hash:
+      serializedVersion: 2
+      Hash: 92995c680a3d85887162562cf5c0feea
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: VideoCaptureExample
+  - hash:
+      serializedVersion: 2
+      Hash: 12e64d607873da15ad3f833620350d51
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: InputField
+  - hash:
+      serializedVersion: 2
+      Hash: 3f8d7b92a6be3c715e55d5cfa7cc8384
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalReceiver
+  - hash:
+      serializedVersion: 2
+      Hash: 8c3fac3c827d45a4e5901499bfe79ff1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: RawVideoCaptureVisualizer
+  - hash:
+      serializedVersion: 2
+      Hash: dd1544de412f92b32f1c6671123b3745
+    assemblyName: Mirror.Examples.dll
+    namespaceName: Mirror.Examples.Basic
+    className: Player
+  - hash:
+      serializedVersion: 2
+      Hash: 5ad4aa237d47ac2bab17bacb672edf7a
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: HorizontalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 35a9693c388776aaf487636491a20f11
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_FontAsset
+  - hash:
+      serializedVersion: 2
+      Hash: e1300922cc039f41ab46a47f4cb05898
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_Settings
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ActivationPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 18c222bef9ae745ce69ddde9b74337ca
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: Physics2DRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 6cd1fbd28038b6b8a9699952879a4eb1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: PlayerObject
+  - hash:
+      serializedVersion: 2
+      Hash: 991e49dd5c39769aa852f5ad896bcb95
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: HandTrackingVisualizer
+  - hash:
+      serializedVersion: 2
+      Hash: 3f8cffb510b5c9380cb24e6bf98cbf16
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: MasterMaterialController
+  - hash:
+      serializedVersion: 2
+      Hash: f3a8ccc18ad656ac8993b34a1b30984f
+    assemblyName: Mirror.Components.dll
+    namespaceName: Mirror
+    className: NetworkLobbyPlayer
+  - hash:
+      serializedVersion: 2
+      Hash: f7c9419bdef528be9b046de7bc3585c1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: RosSharp.RosBridgeClient
+    className: RosConnector
+  - hash:
+      serializedVersion: 2
+      Hash: 89bc89d7cbbe9bb4767bb94982db2e7c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: UnityEngine.XR.MagicLeap
+    className: Planes
+  - hash:
+      serializedVersion: 2
+      Hash: 318c6c13a19c9fac98135ae14889de1b
+    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
+    namespaceName: UnityEngine.Networking
+    className: NetworkMigrationManager
+  - hash:
+      serializedVersion: 2
+      Hash: 7cd0050d5848a0062aa42a89bb7f3829
+    assemblyName: Mirror.Authenticators.dll
+    namespaceName: Mirror.Authenticators
+    className: TimeoutAuthenticator
+  - hash:
+      serializedVersion: 2
+      Hash: d965d9a4cba142a3e0d93432cea3f34f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: RosSharp.RosBridgeClient
+    className: JoyAxisInputPasser
+  - hash:
+      serializedVersion: 2
+      Hash: 4f07d984a781b6b2f93aab25595d68d7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: RosSharp.RosBridgeClient
+    className: PoseStampedSubscriber
+  - hash:
+      serializedVersion: 2
+      Hash: 5503f57feab25077a1e1b713b64d36fb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: RosSharp.Urdf
+    className: UrdfJointFixed
+  - hash:
+      serializedVersion: 2
+      Hash: dce761e73f3059c170256a3093bb0682
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: RosSharp.RosBridgeClient
+    className: JoyAxisJointMotorWriter
+  - hash:
+      serializedVersion: 2
+      Hash: c1933cc0a2f4ff6eb13333347497beb3
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: TimelineAsset
+  - hash:
+      serializedVersion: 2
+      Hash: c83381a2e77208056d264c26b1adcb3b
+    assemblyName: RealSense.dll
+    namespaceName: 
+    className: RsDecimationFilter
+  - hash:
+      serializedVersion: 2
+      Hash: 4744fae82304fe339d6ea1778621170e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: RosSharp.RosBridgeClient
+    className: JointStatePublisher
+  - hash:
+      serializedVersion: 2
+      Hash: 7c71d716b38d04d1ff6fea43f79fc7d4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: UnityEngine.XR.MagicLeap
+    className: Vignette
+  - hash:
+      serializedVersion: 2
+      Hash: 89bdf7a912ee5a46f9bf6e9ec2c0cbeb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: ImageCaptureExample
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: ControllerTransform
+  - hash:
+      serializedVersion: 2
+      Hash: 40c9359758686abcd0b6fd7064d6581c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: RosSharp.RosBridgeClient
+    className: ImagePublisher
+  - hash:
+      serializedVersion: 2
+      Hash: 220aad3ab64f4d4603466112e0135e4b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: UnityEngine.XR.MagicLeap
+    className: ControllerConnectionHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 2327f9f13a5fb7893b784a290514a506
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: RosSharp.RosBridgeClient
+    className: JointStateSubscriber
+  - hash:
+      serializedVersion: 2
+      Hash: 941515e33a55f1308788e79ef3be405c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: RosSharp.RosBridgeClient
+    className: LaserScanReader
+  - hash:
+      serializedVersion: 2
+      Hash: 439093cf702544bde01983000fdfdc56
+    assemblyName: Mirror.Examples.dll
+    namespaceName: Mirror.Examples.Pong
+    className: NetworkManagerPong
+  - hash:
+      serializedVersion: 2
+      Hash: 83416c2f4423f78ae21db484905b553a
+    assemblyName: UnityEngine.XR.MagicLeap.dll
+    namespaceName: UnityEngine.XR.MagicLeap.Rendering
+    className: MagicLeapCamera
+  - hash:
+      serializedVersion: 2
+      Hash: 520135085322ca7536c46657fb6d2a91
+    assemblyName: Utils.dll
+    namespaceName: 
+    className: GridMesh
+  - hash:
+      serializedVersion: 2
+      Hash: 626f2d802b40f8c4ca5f49fe0bff642c
+    assemblyName: Pcx.dll
+    namespaceName: Pcx
+    className: PointCloudRenderer
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
+    namespaceName: UnityEngine.Networking
+    className: NetworkBehaviour
+  - hash:
+      serializedVersion: 2
+      Hash: 5503f57feab25077a1e1b713b64d36fb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: RosSharp.Urdf
+    className: UrdfJointContinuous
+  - hash:
+      serializedVersion: 2
+      Hash: f24783ee570eed24fd8d616ee6dde153
+    assemblyName: Mirror.dll
+    namespaceName: Mirror
+    className: FallbackTransport
+  - hash:
+      serializedVersion: 2
+      Hash: 53b54dee29ec211cb20d62d47519902d
+    assemblyName: RealSense.dll
+    namespaceName: 
+    className: RsDeviceInspector
+  - hash:
+      serializedVersion: 2
+      Hash: 522398438b193a740ce5018640f3264d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: MediaPlayerSlider
+  - hash:
+      serializedVersion: 2
+      Hash: 6fd2bb55b3ee5edb6040a1c5bccd0e07
+    assemblyName: Mirror.dll
+    namespaceName: Mirror
+    className: NetworkBehaviour
+  - hash:
+      serializedVersion: 2
+      Hash: e1e30f55d022255bc46c0ac75525597c
+    assemblyName: RealSense.dll
+    namespaceName: 
+    className: RsPointCloudRenderer
+  - hash:
+      serializedVersion: 2
+      Hash: ee0cef6caaac8ae485bfa82f000f0f7b
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextMeshProUGUI
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: ControllerFeedbackExample
+  - hash:
+      serializedVersion: 2
+      Hash: 2ff63c6dc445e346b82540e6c29d6027
+    assemblyName: Mirror.Examples.dll
+    namespaceName: Mirror.Examples.NetworkRoom
+    className: NetworkRoomManagerExt
+  - hash:
+      serializedVersion: 2
+      Hash: 71023ea1efc469c53dbfb0d52f1e5c1e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: RosSharp.Urdf
+    className: UrdfInertial
+  - hash:
+      serializedVersion: 2
+      Hash: f336e086360abe49a3323e5f1583c35a
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AudioTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 390944fdf66a2517a76354e58b7960df
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: PlacementVisualizer
+  - hash:
+      serializedVersion: 2
+      Hash: ad425eb6c32a6f6977115fef236ef55f
+    assemblyName: Mirror.Examples.dll
+    namespaceName: Mirror.Examples.Additive
+    className: ShootingTankBehaviour
+  - hash:
+      serializedVersion: 2
+      Hash: ae83e830e7a90c0aff918c4c2e520825
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: GraphicRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: itemImporter
+  - hash:
+      serializedVersion: 2
+      Hash: 88cc9df3c6fc697bfbeacd24c0d6f2d7
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools
+    className: BeforeAfterTestCommandState
+  - hash:
+      serializedVersion: 2
+      Hash: c88c4199b288356ec3eb2f0d85abc619
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: RosSharp.RosBridgeClient
+    className: JoyButtonReader
+  - hash:
+      serializedVersion: 2
+      Hash: 039e165c13791e9d06a58674c537623e
+    assemblyName: RealSense.dll
+    namespaceName: 
+    className: RsProcessingPipe
+  - hash:
+      serializedVersion: 2
+      Hash: 3057ab7daed425115ee4256aca4deed1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: UnityEngine.XR.MagicLeap
+    className: screenScript
+  - hash:
+      serializedVersion: 2
+      Hash: 6d3415f5790486525144973c2d113e95
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: ContactsListPage
+  - hash:
+      serializedVersion: 2
+      Hash: 5243550b7af6d7956540924d33b8a37e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: WacomTabletExample
+  - hash:
+      serializedVersion: 2
+      Hash: 14079b0afbb5e6763947dc924e87b1bd
+    assemblyName: Mirror.Examples.dll
+    namespaceName: 
+    className: UIServerStatusSlot
+  - hash:
+      serializedVersion: 2
+      Hash: 75331fbde9ef467ae879583a5811a8a4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: MeshingExample
+  - hash:
+      serializedVersion: 2
+      Hash: 8340e96d1bd514191c336b2c42a09b74
+    assemblyName: Mirror.dll
+    namespaceName: Mirror
+    className: NetworkIdentity
+  - hash:
+      serializedVersion: 2
+      Hash: d3cf7fc0ea04f627c05cc96718efc748
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: UnityEngine.XR.MagicLeap
+    className: MLPersistentBehavior
+  - hash:
+      serializedVersion: 2
+      Hash: 0b35659f44fdc6b994035bc6d4171bce
+    assemblyName: RealSense.dll
+    namespaceName: 
+    className: RsSpatialFilter
+  - hash:
+      serializedVersion: 2
+      Hash: 6e55d8f5f9e03f5e4dd74d1689caa770
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: ContactsButton
+  - hash:
+      serializedVersion: 2
+      Hash: 5503f57feab25077a1e1b713b64d36fb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: RosSharp.Urdf
+    className: UrdfJointPlanar
+  - hash:
+      serializedVersion: 2
+      Hash: 73fc5a8070e5e6d0260ad47cb676b499
+    assemblyName: RealSense.dll
+    namespaceName: 
+    className: RsStreamTextureRenderer
+  - hash:
+      serializedVersion: 2
+      Hash: 0fa2ece256be4a558b3ea0e8e7b085d2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: UnityEngine.XR.MagicLeap
+    className: ComboRaycastEyes
+  - hash:
+      serializedVersion: 2
+      Hash: 8a2810d456986d72102a2ee15a6208b7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: UnityEngine.XR.MagicLeap
+    className: PrivilegeDeniedError
+  - hash:
+      serializedVersion: 2
+      Hash: c8102e51aaf4151f5a35ab37091b5713
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: FaceCamera
+  - hash:
+      serializedVersion: 2
+      Hash: 2ff63c6dc445e346b82540e6c29d6027
+    assemblyName: Mirror.Components.dll
+    namespaceName: Mirror
+    className: NetworkLobbyManager
+  - hash:
+      serializedVersion: 2
+      Hash: 1dcb82730d983b77cec736c6ef19f814
+    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
+    namespaceName: UnityEngine.Networking
+    className: NetworkDiscovery
+  - hash:
+      serializedVersion: 2
+      Hash: 893dbdbfe611d62e230a686ea89f1efd
+    assemblyName: UnityEngine.XR.LegacyInputHelpers.dll
+    namespaceName: UnityEngine.XR.LegacyInputHelpers
+    className: SwingArmModel
+  - hash:
+      serializedVersion: 2
+      Hash: 7dd4e413df5f2fbdd972052f6ebb4f60
+    assemblyName: Utils.dll
+    namespaceName: 
+    className: ErrorPopup
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: MarkerTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 34ec5990523b3554fd6bf662ff6535ce
+    assemblyName: RealSense.dll
+    namespaceName: 
+    className: RsARBackgroundRenderer
+  - hash:
+      serializedVersion: 2
+      Hash: afc5b93a7b192de2dcb3832fe35a5c7e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraMovement
+  - hash:
+      serializedVersion: 2
+      Hash: d791aa6007fa3640be1164ea75bb087d
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_StyleSheet
+  - hash:
+      serializedVersion: 2
+      Hash: 9fa9374181ec1287ae1d2ee90c6f22d2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: AudioCaptureExample
+  - hash:
+      serializedVersion: 2
+      Hash: 5180cd98be879c441222cbbf45d38cce
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: VirtualCursor
+  - hash:
+      serializedVersion: 2
+      Hash: 5503f57feab25077a1e1b713b64d36fb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: RosSharp.Urdf
+    className: UrdfJointFloating
+  - hash:
+      serializedVersion: 2
+      Hash: edec34fa37ceb4e15d29a1e2697f1b00
+    assemblyName: Mirror.Components.dll
+    namespaceName: Mirror
+    className: NetworkTransform
+  - hash:
+      serializedVersion: 2
+      Hash: e6ae40841db498b6e673877ac45ad208
+    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
+    namespaceName: UnityEngine.Networking
+    className: NetworkAnimator
+  - hash:
+      serializedVersion: 2
+      Hash: e87f50864f8a979f1228e8c69bd62658
+    assemblyName: Mirror.Examples.dll
+    namespaceName: Mirror.Examples.Pong
+    className: Player
+  - hash:
+      serializedVersion: 2
+      Hash: 1e87c9ff04054367cc814e8d1b89fb66
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: VideoError
+  - hash:
+      serializedVersion: 2
+      Hash: 025eea4252e97138ee7545e895fb1b3c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: ContactItem
+  - hash:
+      serializedVersion: 2
+      Hash: 32f96188c4215b7fda7e8dab50b5595c
+    assemblyName: Utils.dll
+    namespaceName: 
+    className: FloatTween
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.XR.MagicLeap.dll
+    namespaceName: UnityEngine.XR.MagicLeap
+    className: MagicLeapLoader
+  - hash:
+      serializedVersion: 2
+      Hash: a0806da19f178c0be530921ca3a0a11d
+    assemblyName: Mirror.Examples.dll
+    namespaceName: Mirror.Examples.NetworkRoom
+    className: OfflineGUI
+  - hash:
+      serializedVersion: 2
+      Hash: c88c4199b288356ec3eb2f0d85abc619
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: RosSharp.RosBridgeClient
+    className: JoyAxisReader
+  - hash:
+      serializedVersion: 2
+      Hash: 5372ed2ce39229b1ac910757999a8be2
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextMeshPro
+  - hash:
+      serializedVersion: 2
+      Hash: 1cd7de7521dc2fdca0e4ea3e13c1c8d9
+    assemblyName: UnityEngine.XR.MagicLeap.dll
+    namespaceName: UnityEngine.XR.MagicLeap
+    className: MagicLeapGestures
+  - hash:
+      serializedVersion: 2
+      Hash: 3165968ba45c74472d279ba04455fccb
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_ColorGradient
+  - hash:
+      serializedVersion: 2
+      Hash: 766927ead62c0b6e79e2dae4c158ecec
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: MediaPlayerExample
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: PlayModeRunnerCallback
+  - hash:
+      serializedVersion: 2
+      Hash: b3c4d6d2ec3bf1231fdecd4daaab21da
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: MediaPlayerButton
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: BaseInput
+  - hash:
+      serializedVersion: 2
+      Hash: 950c1182e5ab8b0dde96479f3e0d8f51
+    assemblyName: RealSense.dll
+    namespaceName: 
+    className: RsThresholdFilter
+  - hash:
+      serializedVersion: 2
+      Hash: 986df0dfab7ffbd155b81bbb8bacea63
+    assemblyName: Mirror.Components.dll
+    namespaceName: Mirror
+    className: NetworkTransformChild
+  - hash:
+      serializedVersion: 2
+      Hash: 925c7c4b84532641f89dd66213c13c61
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: MaterialForegroundColorController
+  - hash:
+      serializedVersion: 2
+      Hash: 9b895dcabbc1faf095c000c32d471fd0
+    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
+    namespaceName: UnityEngine.Networking
+    className: NetworkTransformChild
+  - hash:
+      serializedVersion: 2
+      Hash: caa533b001ae39b864ba8425019e2268
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Outline
+  - hash:
+      serializedVersion: 2
+      Hash: 4ac31b31b6245167a58eae55b7ca3b40
+    assemblyName: Mirror.Components.dll
+    namespaceName: Mirror
+    className: NetworkProximityChecker
+  - hash:
+      serializedVersion: 2
+      Hash: e0ee4b3d4e27318934cc940a969d3d96
+    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
+    namespaceName: UnityEngine.Networking
+    className: NetworkManagerHUD
+  - hash:
+      serializedVersion: 2
+      Hash: 88e3b86c3ab08e02b94869c8fc5ce863
+    assemblyName: Mirror.Examples.dll
+    namespaceName: Mirror.Examples.NetworkRoom
+    className: PlayerScore
+  - hash:
+      serializedVersion: 2
+      Hash: 9a013abfa3e76c0c33f15c4158f01245
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: VignetteExample
+  - hash:
+      serializedVersion: 2
+      Hash: 3f52d34ea17dfc771004b80f5d492445
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: EventTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 8649814970b42d345b89944b862453cc
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SubMesh
+  - hash:
+      serializedVersion: 2
+      Hash: 88e8d1ec0f6852ab05cc33481d5f0fd1
+    assemblyName: Utils.dll
+    namespaceName: 
+    className: StringIntBinding
+  - hash:
+      serializedVersion: 2
+      Hash: 9d30893e969eb98f3869d71be6b8a9d4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: RosSharp.RosBridgeClient
+    className: TwistPublisher
+  - hash:
+      serializedVersion: 2
+      Hash: de4828c459fb96794d073da88308225a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: HandMeshingExample
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: ContentDragHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 8ab9295d94483c961936d82d233d3df2
+    assemblyName: Unity.XR.Management.dll
+    namespaceName: UnityEngine.XR.Management
+    className: XRManagerSettings
+  - hash:
+      serializedVersion: 2
+      Hash: 256bee10772d5b5129dfbb23f40d72a1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: RosSharp
+    className: PrismaticJointLimitsManager
+  - hash:
+      serializedVersion: 2
+      Hash: 7090bc1e5ccaec2a9d0d1335ed8cee99
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner
+    className: PlaymodeTestsController
+  - hash:
+      serializedVersion: 2
+      Hash: 7d3470510c877abcdb3a1391793d7d58
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: PlacementExample
+  - hash:
+      serializedVersion: 2
+      Hash: 0852116b29df10ce3f9156850d406521
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: e4fb2671f4e7782c0481d74d32ad6df2
+    assemblyName: Mirror.Examples.dll
+    namespaceName: Mirror.Examples.Tanks
+    className: Projectile
+  - hash:
+      serializedVersion: 2
+      Hash: fb3b94f234641c0f044c4ae26a455808
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: RosSharp.RosBridgeClient
+    className: JoyPublisher
+  - hash:
+      serializedVersion: 2
+      Hash: f7b9bacca8289c3bb95464d93e34a06e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: VirtualPointer
+  - hash:
+      serializedVersion: 2
+      Hash: 748dd2a2a28da4e618912da5ac45684b
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: StandaloneInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: 3ab7272a8b7d3ea5a142e0c9b6aae63b
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Toggle
+  - hash:
+      serializedVersion: 2
+      Hash: 3f8cffb510b5c9380cb24e6bf98cbf16
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: CombinedMasterMaterialController
+  - hash:
+      serializedVersion: 2
+      Hash: 8220b46879dc5e37db1b940c938f5744
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalEmitter
+  - hash:
+      serializedVersion: 2
+      Hash: 85c97bcc5f84eeb0999d75902803b99d
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Slider
+  - hash:
+      serializedVersion: 2
+      Hash: 66376a76979fe9baf14d613b4931b701
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: ContactAttributeItem
+  - hash:
+      serializedVersion: 2
+      Hash: cda685c224e3d5df7e3d68e3d3e76f6b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: MeshingVisualizer
+  - hash:
+      serializedVersion: 2
+      Hash: 0fd6822f6177297bd0eb4d83cc7a9030
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ToggleGroup
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: PlayableTrack
+  - hash:
+      serializedVersion: 2
+      Hash: a6bd20cad369ba160f48a9b43236ea26
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: DeepSeaExplorerLauncher
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: shaderSizeEnable
+  platform: 39
+  scenePathNames:
+  - Assets/combinedSceneWithSnapshotMirrorNetworking.unity
+  - Assets/networkLobbySceneMirrorNetworking.unity
+  playerPath: C:/Users/Brady/Desktop/offsetTracking CURRENT/app2.mpk
