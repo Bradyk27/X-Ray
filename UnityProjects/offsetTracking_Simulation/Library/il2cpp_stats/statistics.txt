@@ -1,0 +1,423 @@
+----IL2CPP Arguments----
+--convert-to-cpp --emit-null-checks --enable-stacktrace --enable-array-bounds-check --dotnetprofile=unityaot --compile-cpp --libil2cpp-static --platform=Lumin --architecture=ARM64 --configuration=Release --outputpath=C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp/StagingArea/Data\Native\libil2cpp.so --cachedirectory=C:\Users\Brady\Desktop\offsetTracking CURRENT\Assets\..\Library\il2cpp_cache/il2cpp_cache --verbose --enable-stats --stats-output-dir=C:/Users/Brady/Desktop/offsetTracking CURRENT/Assets/../Library/il2cpp_stats --profiler-report --map-file-parser=C:/Program Files/Unity/Hub/Editor/2019.2.2f1/Editor/Data/Tools/MapFileParser/MapFileParser.exe --directory=C:/Users/Brady/Desktop/offsetTracking CURRENT/Temp/StagingArea/Data/Managed --generatedcppdir=C:/Users/Brady/Desktop/offsetTracking CURRENT/Temp/StagingArea/Data/il2cppOutput
+
+----Assemblies Converted-----
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\com.unity.multiplayer-hlapi.Runtime.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\Intel.RealSense.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\LuminMediaPlayer.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\LuminUnity.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\Mirror.Authenticators.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\Mirror.Components.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\Mirror.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\Mirror.Examples.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\Mono.Security.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\mscorlib.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\netstandard.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\Newtonsoft.Json.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\Pcx.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\RealSense.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\RosBridgeClient.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\System.Configuration.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\System.Core.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\System.Diagnostics.StackTrace.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\System.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\System.Globalization.Extensions.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\System.IO.Compression.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\System.Runtime.Serialization.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\System.Xml.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\System.Xml.Linq.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\Unity.Subsystem.Registration.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\Unity.XR.ARSubsystems.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\Unity.XR.InteractionSubsystems.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\Unity.XR.Management.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.AIModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.AndroidJNIModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.AnimationModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.ARModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.AssetBundleModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.AudioModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.CoreModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.DirectorModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.GridModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.ImageConversionModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.IMGUIModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.InputLegacyModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.InputModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.JSONSerializeModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.LuminModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.ParticleSystemModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.Physics2DModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.PhysicsModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.SharedInternalsModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.SpatialTracking.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.TerrainModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.TextRenderingModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.TilemapModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.UI.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.UIElementsModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.UIModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.UNETModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.UnityWebRequestModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.VFXModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.VideoModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.VRModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.XR.MagicLeap.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.XRModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\Urdf.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\Utils.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\websocket-sharp.dll
+
+----- il2cpp Statistics -----
+General:
+	Conversion Time: 55.194 s
+	Files Written: 279
+	String Literals: 9605
+Methods:
+	Total Methods: 60570
+	Non-Generic Methods: 36009
+	Generic Type Methods: 20853
+	Generic Methods: 3708
+	Shared Methods: 24447
+	Methods with Tail Calls : 0
+Metadata:
+	Total: 6,231.79 kb
+	String Literals: 75.04 kb
+	String Literal Data: 296.96 kb
+	Metadata Strings: 707.01 kb
+	Events: 3.56 kb
+	Properties: 141.33 kb
+	Methods: 1,241.09 kb
+	Parameter Default Values: 2.43 kb
+	Field Default Values: 90.66 kb
+	Field and Parameter Default Values Data: 129.80 kb
+	Field Marshaled Sizes: 20.93 kb
+	Parameters: 514.25 kb
+	Fields: 279.80 kb
+	Generic Parameters: 18.17 kb
+	Generic Parameter Constraints: 0.90 kb
+	Generic Containers: 11.73 kb
+	Nested Types: 7.05 kb
+	Interfaces: 6.67 kb
+	VTables: 257.88 kb
+	Interface Offsets: 44.45 kb
+	Type Definitions: 565.84 kb
+	Images: 2.62 kb
+	Assemblies: 4.45 kb
+	Metadata Usage Lists: 478.77 kb
+	Metadata Usage Pairs: 1,123.24 kb
+	Field Refs: 1.71 kb
+	Referenced Assemblies: 1.32 kb
+	Attribute Types Ranges: 111.57 kb
+	Attribute Types: 63.63 kb
+	Unresolved Virtual Call Parameter Types: 12.56 kb
+	Unresolved Virtual Call Parameter Ranges: 8.17 kb
+	Windows Runtime type names: 0.00 kb
+	Exported Types: 8.20 kb
+Codegen:
+	NullChecks : 102908
+Hashing:
+	String Literal Hash Collisions : 0
+	Type Hash Collisions : 0
+	Method Hash Collisions : 0
+	Sequence Point Hash Collisions : 0
+Interop:
+	Windows Runtime boxed types : 0
+	Windows Runtime types with names : 0
+	Native to managed interface adapters : 0
+	Array COM callable wrappers : 0
+	COM callable wrappers : 0
+	COM callable wrapper methods that were implemented : 0
+	COM callable wrapper methods that were stripped : 0
+	COM callable wrapper methods that were forwarded to call base class method : 0
+Compilation:
+	Total Files: 313
+	Files Compiled: 29
+	Cache Hits: 284
+	Cache Hit %: 90
+
+
+----Assembly Conversion Times----
+	Convert Assembly-CSharp (1395.59545898438ms)
+	Convert com.unity.multiplayer-hlapi.Runtime (1231.84020996094ms)
+	Convert Intel.RealSense (110.462501525879ms)
+	Convert LuminMediaPlayer (321.159820556641ms)
+	Convert LuminUnity (2048.57275390625ms)
+	Convert Mirror (1397.10327148438ms)
+	Convert Mirror.Authenticators (32.7436981201172ms)
+	Convert Mirror.Components (119.677597045898ms)
+	Convert Mirror.Examples (192.121200561523ms)
+	Convert Mono.Security (202.540298461914ms)
+	Convert mscorlib (5144.90087890625ms)
+	Convert netstandard (8.28639984130859ms)
+	Convert Newtonsoft.Json (983.345336914063ms)
+	Convert Pcx (21.7451000213623ms)
+	Convert RealSense (153.120788574219ms)
+	Convert RosBridgeClient (59.9314994812012ms)
+	Convert System (1977.748046875ms)
+	Convert System.Configuration (18.8852005004883ms)
+	Convert System.Core (1313.90087890625ms)
+	Convert System.Diagnostics.StackTrace (8.36159992218018ms)
+	Convert System.Globalization.Extensions (8.55049991607666ms)
+	Convert System.IO.Compression (8.73099994659424ms)
+	Convert System.Runtime.Serialization (13.4944000244141ms)
+	Convert System.Xml (1300.24389648438ms)
+	Convert System.Xml.Linq (85.6261978149414ms)
+	Convert Unity.Subsystem.Registration (17.8996982574463ms)
+	Convert Unity.XR.ARSubsystems (126.214691162109ms)
+	Convert Unity.XR.InteractionSubsystems (45.6479988098145ms)
+	Convert Unity.XR.Management (56.2798004150391ms)
+	Convert UnityEngine (11.1147003173828ms)
+	Convert UnityEngine.AIModule (16.5921001434326ms)
+	Convert UnityEngine.AndroidJNIModule (83.757194519043ms)
+	Convert UnityEngine.AnimationModule (64.6577987670898ms)
+	Convert UnityEngine.ARModule (19.2486000061035ms)
+	Convert UnityEngine.AssetBundleModule (19.459400177002ms)
+	Convert UnityEngine.AudioModule (29.6229000091553ms)
+	Convert UnityEngine.CoreModule (591.50927734375ms)
+	Convert UnityEngine.DirectorModule (11.2583999633789ms)
+	Convert UnityEngine.GridModule (17.17799949646ms)
+	Convert UnityEngine.ImageConversionModule (10.8797998428345ms)
+	Convert UnityEngine.IMGUIModule (310.806396484375ms)
+	Convert UnityEngine.InputLegacyModule (24.9573993682861ms)
+	Convert UnityEngine.InputModule (29.7195014953613ms)
+	Convert UnityEngine.JSONSerializeModule (17.5103015899658ms)
+	Convert UnityEngine.LuminModule (15.1288995742798ms)
+	Convert UnityEngine.ParticleSystemModule (28.9008007049561ms)
+	Convert UnityEngine.Physics2DModule (35.1508979797363ms)
+	Convert UnityEngine.PhysicsModule (53.2622032165527ms)
+	Convert UnityEngine.SharedInternalsModule (30.5417976379395ms)
+	Convert UnityEngine.SpatialTracking (67.4604034423828ms)
+	Convert UnityEngine.TerrainModule (35.6198997497559ms)
+	Convert UnityEngine.TextRenderingModule (41.8575019836426ms)
+	Convert UnityEngine.TilemapModule (19.6384983062744ms)
+	Convert UnityEngine.UI (1177.27868652344ms)
+	Convert UnityEngine.UIElementsModule (16.3826007843018ms)
+	Convert UnityEngine.UIModule (40.3359985351563ms)
+	Convert UnityEngine.UNETModule (128.438598632813ms)
+	Convert UnityEngine.UnityAnalyticsModule (16.2587013244629ms)
+	Convert UnityEngine.UnityWebRequestModule (59.0777969360352ms)
+	Convert UnityEngine.VFXModule (15.665699005127ms)
+	Convert UnityEngine.VideoModule (22.0883007049561ms)
+	Convert UnityEngine.VRModule (13.6104001998901ms)
+	Convert UnityEngine.XR.MagicLeap (455.963684082031ms)
+	Convert UnityEngine.XRModule (104.778503417969ms)
+	Convert Urdf (12.9357004165649ms)
+	Convert Utils (85.282096862793ms)
+	Convert websocket-sharp (238.264083862305ms)
+
+----Misc Timing----
+	PreProcessStage: 900.614135742188
+	GenericsCollector.Collect: None
+	WriteGenerics: 13723.9619140625
+	AllAssemblyConversion: 23374.677734375
+
+----Generated Files----
+Assembly-CSharp.cpp	2068057
+Assembly-CSharp1.cpp	2178018
+Assembly-CSharp2.cpp	2369296
+Assembly-CSharp3.cpp	2216330
+Assembly-CSharp4.cpp	177393
+com.unity.multiplayer-hlapi.Runtime.cpp	1998141
+com.unity.multiplayer-hlapi.Runtime1.cpp	1923074
+com.unity.multiplayer-hlapi.Runtime2.cpp	1967438
+com.unity.multiplayer-hlapi.Runtime3.cpp	1547941
+GenericMethods.cpp	1586297
+GenericMethods1.cpp	1880147
+GenericMethods10.cpp	407991
+GenericMethods2.cpp	2771223
+GenericMethods3.cpp	1877586
+GenericMethods4.cpp	1928028
+GenericMethods5.cpp	2258208
+GenericMethods6.cpp	1831912
+GenericMethods7.cpp	2168886
+GenericMethods8.cpp	2406990
+GenericMethods9.cpp	2302360
+Generics.cpp	1605818
+Generics1.cpp	1796045
+Generics10.cpp	1339589
+Generics11.cpp	1813009
+Generics12.cpp	2263549
+Generics13.cpp	1823343
+Generics14.cpp	1928284
+Generics15.cpp	1570195
+Generics16.cpp	1501475
+Generics17.cpp	1477252
+Generics18.cpp	1497615
+Generics19.cpp	1448770
+Generics2.cpp	1697883
+Generics20.cpp	1370872
+Generics21.cpp	1379048
+Generics22.cpp	1635748
+Generics23.cpp	1563890
+Generics24.cpp	2375113
+Generics25.cpp	1336047
+Generics26.cpp	1341223
+Generics27.cpp	1429338
+Generics28.cpp	1477822
+Generics29.cpp	1369238
+Generics3.cpp	1851518
+Generics30.cpp	1500961
+Generics31.cpp	1530700
+Generics32.cpp	1749489
+Generics33.cpp	1607338
+Generics34.cpp	1432195
+Generics35.cpp	1459910
+Generics36.cpp	1502417
+Generics37.cpp	1516397
+Generics38.cpp	1716307
+Generics39.cpp	1706403
+Generics4.cpp	2162729
+Generics40.cpp	1735314
+Generics41.cpp	1482954
+Generics42.cpp	1778697
+Generics43.cpp	1592995
+Generics44.cpp	1480444
+Generics5.cpp	2172830
+Generics6.cpp	2191856
+Generics7.cpp	1373237
+Generics8.cpp	1240170
+Generics9.cpp	1307437
+Il2CppAttributes.cpp	9017983
+Il2CppCodeRegistration.cpp	9796
+Il2CppCompilerCalculateTypeValues.cpp	4919772
+Il2CppCompilerCalculateTypeValues1.cpp	4675465
+Il2CppCompilerCalculateTypeValues2.cpp	5470541
+Il2CppCompilerCalculateTypeValues3.cpp	1415181
+Il2CppCompilerCalculateTypeValuesTable.cpp	948873
+Il2CppGenericComDefinitions.cpp	214
+Il2CppGenericMethodPointerTable.cpp	6015612
+Il2CppInteropDataTable.cpp	355939
+Il2CppInvokerTable.cpp	6458116
+Il2CppReversePInvokeWrapperTable.cpp	29928
+Intel.RealSense.cpp	956297
+LuminMediaPlayer.cpp	1376057
+LuminUnity.cpp	1640796
+LuminUnity1.cpp	1824032
+LuminUnity2.cpp	2059346
+LuminUnity3.cpp	2215730
+LuminUnity4.cpp	1415758
+Mirror.Authenticators.cpp	160378
+Mirror.Components.cpp	774347
+Mirror.cpp	2212880
+Mirror.Examples.cpp	969742
+Mirror1.cpp	2205150
+Mirror2.cpp	2245548
+Mirror3.cpp	375824
+Mono.Security.cpp	1666131
+Mono.Security1.cpp	420689
+mscorlib.cpp	1843435
+mscorlib1.cpp	1851470
+mscorlib10.cpp	1757808
+mscorlib11.cpp	2016770
+mscorlib12.cpp	2078316
+mscorlib13.cpp	2108807
+mscorlib14.cpp	2171145
+mscorlib15.cpp	1929146
+mscorlib16.cpp	1788876
+mscorlib17.cpp	2222186
+mscorlib18.cpp	1791559
+mscorlib19.cpp	1688475
+mscorlib2.cpp	1957849
+mscorlib20.cpp	1916136
+mscorlib21.cpp	1978878
+mscorlib22.cpp	1122381
+mscorlib3.cpp	2115453
+mscorlib4.cpp	1693977
+mscorlib5.cpp	1927155
+mscorlib6.cpp	1881568
+mscorlib7.cpp	1821743
+mscorlib8.cpp	1959417
+mscorlib9.cpp	2136505
+netstandard.cpp	999
+Newtonsoft.Json.cpp	2104692
+Newtonsoft.Json1.cpp	1895573
+Newtonsoft.Json2.cpp	2173851
+Newtonsoft.Json3.cpp	1956850
+Newtonsoft.Json4.cpp	1680180
+Pcx.cpp	100139
+RealSense.cpp	983288
+RosBridgeClient.cpp	698095
+System.Configuration.cpp	59838
+System.Core.cpp	2685993
+System.Core1.cpp	1888252
+System.Core2.cpp	1919400
+System.Core3.cpp	1971571
+System.Core4.cpp	1965906
+System.Core5.cpp	524960
+System.cpp	2055835
+System.Diagnostics.StackTrace.cpp	999
+System.Globalization.Extensions.cpp	999
+System.IO.Compression.cpp	999
+System.Runtime.Serialization.cpp	27889
+System.Xml.cpp	2383986
+System.Xml.Linq.cpp	801759
+System.Xml1.cpp	2052153
+System.Xml2.cpp	1810353
+System.Xml3.cpp	1886296
+System.Xml4.cpp	2179146
+System.Xml5.cpp	2011656
+System.Xml6.cpp	1537601
+System1.cpp	1890962
+System2.cpp	1825045
+System3.cpp	1934797
+System4.cpp	2071896
+System5.cpp	1970433
+System6.cpp	2278519
+System7.cpp	2480703
+System8.cpp	1962929
+System9.cpp	461841
+Unity.Subsystem.Registration.cpp	39126
+Unity.XR.ARSubsystems.cpp	489683
+Unity.XR.InteractionSubsystems.cpp	143624
+Unity.XR.Management.cpp	183953
+UnityEngine.AIModule.cpp	43381
+UnityEngine.AndroidJNIModule.cpp	641233
+UnityEngine.AnimationModule.cpp	340989
+UnityEngine.ARModule.cpp	73872
+UnityEngine.AssetBundleModule.cpp	38483
+UnityEngine.AudioModule.cpp	231763
+UnityEngine.CoreModule.cpp	1808389
+UnityEngine.CoreModule1.cpp	1739486
+UnityEngine.CoreModule2.cpp	1515973
+UnityEngine.cpp	999
+UnityEngine.DirectorModule.cpp	21255
+UnityEngine.GridModule.cpp	6007
+UnityEngine.ImageConversionModule.cpp	14393
+UnityEngine.IMGUIModule.cpp	1616050
+UnityEngine.IMGUIModule1.cpp	5775
+UnityEngine.InputLegacyModule.cpp	186502
+UnityEngine.InputModule.cpp	54079
+UnityEngine.JSONSerializeModule.cpp	48368
+UnityEngine.LuminModule.cpp	18433
+UnityEngine.ParticleSystemModule.cpp	82228
+UnityEngine.Physics2DModule.cpp	258229
+UnityEngine.PhysicsModule.cpp	437904
+UnityEngine.SharedInternalsModule.cpp	208980
+UnityEngine.SpatialTracking.cpp	202419
+UnityEngine.TerrainModule.cpp	292428
+UnityEngine.TextRenderingModule.cpp	232334
+UnityEngine.TilemapModule.cpp	96416
+UnityEngine.UI.cpp	2251789
+UnityEngine.UI1.cpp	2444437
+UnityEngine.UI2.cpp	1936374
+UnityEngine.UI3.cpp	941485
+UnityEngine.UIElementsModule.cpp	96036
+UnityEngine.UIModule.cpp	244592
+UnityEngine.UNETModule.cpp	1227128
+UnityEngine.UnityAnalyticsModule.cpp	68862
+UnityEngine.UnityWebRequestModule.cpp	515325
+UnityEngine.VFXModule.cpp	60004
+UnityEngine.VideoModule.cpp	142737
+UnityEngine.VRModule.cpp	28696
+UnityEngine.XR.MagicLeap.cpp	2227955
+UnityEngine.XR.MagicLeap1.cpp	345878
+UnityEngine.XRModule.cpp	949310
+UnresolvedVirtualCallStubs.cpp	914432
+Urdf.cpp	37903
+Utils.cpp	577912
+websocket-sharp.cpp	1936547
+websocket-sharp1.cpp	126568
+

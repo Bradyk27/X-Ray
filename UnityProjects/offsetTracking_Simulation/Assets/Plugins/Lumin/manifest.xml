@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:ml="magicleap" ml:package="com.sparrlab.offsettracking" ml:version_code="1" ml:version_name="">
+  <application ml:sdk_version="1.0" ml:visible_name="offsetTracking" ml:min_api_level="4">
+    <component ml:binary_name="bin/Player.elf" ml:name=".fullscreen" ml:type="Fullscreen" ml:visible_name="offsetTracking">
+      <icon ml:model_folder="Icon/Model" ml:portal_folder="Icon/Portal" />
+    </component>
+    <uses-privilege ml:name="LowLatencyLightwear" />
+    <uses-privilege ml:name="GesturesConfig" />
+    <uses-privilege ml:name="GesturesSubscribe" />
+    <uses-privilege ml:name="Internet" />
+    <uses-privilege ml:name="WorldReconstruction" />
+    <uses-privilege ml:name="LocalAreaNetwork" />
+    <uses-privilege ml:name="CameraCapture" />
+    <uses-privilege ml:name="VoiceInput" />
+  </application>
+</manifest>
