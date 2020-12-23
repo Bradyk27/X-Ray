@@ -118,107 +118,107 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 21736}
+      Script: {instanceID: 9842}
     - Class: 114
-      Script: {instanceID: 21738}
+      Script: {instanceID: 9844}
     - Class: 114
-      Script: {instanceID: 21788}
+      Script: {instanceID: 9852}
     - Class: 114
-      Script: {instanceID: 21790}
+      Script: {instanceID: 9940}
     - Class: 114
-      Script: {instanceID: 21798}
+      Script: {instanceID: 9948}
     - Class: 114
-      Script: {instanceID: 21884}
+      Script: {instanceID: 9958}
     - Class: 114
-      Script: {instanceID: 21892}
+      Script: {instanceID: 10124}
     - Class: 114
-      Script: {instanceID: 21902}
+      Script: {instanceID: 10130}
     - Class: 114
-      Script: {instanceID: 22058}
+      Script: {instanceID: 10150}
     - Class: 114
-      Script: {instanceID: 22064}
+      Script: {instanceID: 10164}
     - Class: 114
-      Script: {instanceID: 22084}
+      Script: {instanceID: 10212}
     - Class: 114
-      Script: {instanceID: 22098}
+      Script: {instanceID: 10340}
     - Class: 114
-      Script: {instanceID: 22146}
+      Script: {instanceID: 10504}
     - Class: 114
-      Script: {instanceID: 22270}
+      Script: {instanceID: 10694}
     - Class: 114
-      Script: {instanceID: 22430}
+      Script: {instanceID: 10708}
     - Class: 114
-      Script: {instanceID: 22618}
+      Script: {instanceID: 10764}
     - Class: 114
-      Script: {instanceID: 22632}
+      Script: {instanceID: 10814}
     - Class: 114
-      Script: {instanceID: 22684}
+      Script: {instanceID: 10818}
     - Class: 114
-      Script: {instanceID: 22734}
+      Script: {instanceID: 10900}
     - Class: 114
-      Script: {instanceID: 22738}
+      Script: {instanceID: 10928}
     - Class: 114
-      Script: {instanceID: 22812}
+      Script: {instanceID: 11116}
     - Class: 114
-      Script: {instanceID: 22838}
+      Script: {instanceID: 11132}
     - Class: 114
-      Script: {instanceID: 23016}
+      Script: {instanceID: 11144}
     - Class: 114
-      Script: {instanceID: 23030}
+      Script: {instanceID: 11186}
     - Class: 114
-      Script: {instanceID: 23036}
+      Script: {instanceID: 11250}
     - Class: 114
-      Script: {instanceID: 23076}
+      Script: {instanceID: 11268}
     - Class: 114
-      Script: {instanceID: 23138}
+      Script: {instanceID: 11332}
     - Class: 114
-      Script: {instanceID: 23212}
+      Script: {instanceID: 11392}
     - Class: 114
-      Script: {instanceID: 23270}
+      Script: {instanceID: 11444}
     - Class: 114
-      Script: {instanceID: 23322}
+      Script: {instanceID: 11460}
     - Class: 114
-      Script: {instanceID: 23338}
+      Script: {instanceID: 11518}
     - Class: 114
-      Script: {instanceID: 23396}
+      Script: {instanceID: 11606}
     - Class: 114
-      Script: {instanceID: 23482}
+      Script: {instanceID: 11624}
     - Class: 114
-      Script: {instanceID: 23500}
+      Script: {instanceID: 11734}
     - Class: 114
-      Script: {instanceID: 23660}
+      Script: {instanceID: 11792}
     - Class: 114
-      Script: {instanceID: 23760}
+      Script: {instanceID: 11894}
     - Class: 114
-      Script: {instanceID: 23854}
+      Script: {instanceID: 11998}
     - Class: 114
-      Script: {instanceID: 23884}
+      Script: {instanceID: 12032}
     - Class: 114
-      Script: {instanceID: 23886}
+      Script: {instanceID: 12034}
     - Class: 114
-      Script: {instanceID: 24006}
+      Script: {instanceID: 12158}
     - Class: 114
-      Script: {instanceID: 24040}
+      Script: {instanceID: 12196}
     - Class: 114
-      Script: {instanceID: 24176}
+      Script: {instanceID: 12280}
     - Class: 114
-      Script: {instanceID: 24224}
+      Script: {instanceID: 12344}
     - Class: 114
-      Script: {instanceID: 24254}
+      Script: {instanceID: 12394}
     - Class: 114
-      Script: {instanceID: 24310}
+      Script: {instanceID: 12424}
     - Class: 114
-      Script: {instanceID: 24384}
+      Script: {instanceID: 12482}
     - Class: 114
-      Script: {instanceID: 24566}
+      Script: {instanceID: 12570}
     - Class: 114
-      Script: {instanceID: 24618}
+      Script: {instanceID: 12758}
     - Class: 114
-      Script: {instanceID: 24724}
+      Script: {instanceID: 12814}
     - Class: 114
-      Script: {instanceID: 24882}
+      Script: {instanceID: 12922}
     - Class: 114
-      Script: {instanceID: 38400}
+      Script: {instanceID: 13086}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 124
@@ -285,55 +285,55 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 21788}
+      Script: {instanceID: 9842}
     - Class: 114
-      Script: {instanceID: 21790}
+      Script: {instanceID: 9844}
     - Class: 114
-      Script: {instanceID: 21798}
+      Script: {instanceID: 9852}
     - Class: 114
-      Script: {instanceID: 21902}
+      Script: {instanceID: 9958}
     - Class: 114
-      Script: {instanceID: 22064}
+      Script: {instanceID: 10130}
     - Class: 114
-      Script: {instanceID: 22084}
+      Script: {instanceID: 10150}
     - Class: 114
-      Script: {instanceID: 22146}
+      Script: {instanceID: 10212}
     - Class: 114
-      Script: {instanceID: 22270}
+      Script: {instanceID: 10340}
     - Class: 114
-      Script: {instanceID: 22618}
+      Script: {instanceID: 10694}
     - Class: 114
-      Script: {instanceID: 22632}
+      Script: {instanceID: 10708}
     - Class: 114
-      Script: {instanceID: 22684}
+      Script: {instanceID: 10764}
     - Class: 114
-      Script: {instanceID: 22734}
+      Script: {instanceID: 10814}
     - Class: 114
-      Script: {instanceID: 22838}
+      Script: {instanceID: 10928}
     - Class: 114
-      Script: {instanceID: 23030}
+      Script: {instanceID: 11132}
     - Class: 114
-      Script: {instanceID: 23076}
+      Script: {instanceID: 11186}
     - Class: 114
-      Script: {instanceID: 23482}
+      Script: {instanceID: 11606}
     - Class: 114
-      Script: {instanceID: 23760}
+      Script: {instanceID: 11894}
     - Class: 114
-      Script: {instanceID: 23854}
+      Script: {instanceID: 11998}
     - Class: 114
-      Script: {instanceID: 23878}
+      Script: {instanceID: 12026}
     - Class: 114
-      Script: {instanceID: 23886}
+      Script: {instanceID: 12034}
     - Class: 114
-      Script: {instanceID: 24006}
+      Script: {instanceID: 12158}
     - Class: 114
-      Script: {instanceID: 24040}
+      Script: {instanceID: 12196}
     - Class: 114
-      Script: {instanceID: 24224}
+      Script: {instanceID: 12394}
     - Class: 114
-      Script: {instanceID: 24310}
+      Script: {instanceID: 12482}
     - Class: 114
-      Script: {instanceID: 24724}
+      Script: {instanceID: 12922}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 124
@@ -357,72 +357,6 @@ ScriptsOnlyBuild:
     - Class: 258
       Script: {instanceID: 0}
   scriptHashData:
-  - hash:
-      serializedVersion: 2
-      Hash: 43dc8be0f5b16bc4674dfa0ba3a2f9f4
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: MagicLeap
-    className: ImageTrackingExample
-  - hash:
-      serializedVersion: 2
-      Hash: 2fcc75e62707c455947a9e77f941c29b
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: MagicLeap
-    className: CombinedImageTrackingExampleV2
-  - hash:
-      serializedVersion: 2
-      Hash: e66bcf0f6cb856966fc3568807840bd3
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: MagicLeap
-    className: CombinedPlanesExample
-  - hash:
-      serializedVersion: 2
-      Hash: 63911722392c3b282ebec1129e41411d
-    assemblyName: LuminUnity.dll
-    namespaceName: UnityEngine.XR.MagicLeap
-    className: MLHandMeshingBehavior
-  - hash:
-      serializedVersion: 2
-      Hash: ffe4fc643100d80aad6aaea48a738498
-    assemblyName: LuminUnity.dll
-    namespaceName: UnityEngine.XR.MagicLeap
-    className: MLIdentityProfile
-  - hash:
-      serializedVersion: 2
-      Hash: e7fa06272bc9ad52d94ac29521927b42
-    assemblyName: LuminUnity.dll
-    namespaceName: UnityEngine.XR.MagicLeap
-    className: MLImageTrackerBehavior
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: LuminMediaPlayer.dll
-    namespaceName: UnityEngine.XR.MagicLeap
-    className: MLMediaPlayer
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: LuminMediaPlayer.dll
-    namespaceName: UnityEngine.XR.MagicLeap
-    className: MLMediaPlayerEditor
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: LuminMediaPlayer.dll
-    namespaceName: UnityEngine.XR.MagicLeap
-    className: MLMediaPlayerLumin
-  - hash:
-      serializedVersion: 2
-      Hash: 8f986340209843d4b365c3659ac5facc
-    assemblyName: MSA.Runtime.dll
-    namespaceName: MSA
-    className: MSAListener
-  - hash:
-      serializedVersion: 2
-      Hash: 41d89aa4d10fe8a8266e982ca2c20c40
-    assemblyName: MSA.Runtime.dll
-    namespaceName: MSA
-    className: MSASource
   - hash:
       serializedVersion: 2
       Hash: 66c879896b396b854292246b775ee40d
@@ -1199,6 +1133,12 @@ ScriptsOnlyBuild:
     className: LaserScanVisualizerSpheres
   - hash:
       serializedVersion: 2
+      Hash: 2fcc75e62707c455947a9e77f941c29b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: CombinedImageTrackingExampleV2
+  - hash:
+      serializedVersion: 2
       Hash: be54fe3c504eb4354238744417ca7c2d
     assemblyName: Assembly-CSharp.dll
     namespaceName: RosSharp.RosBridgeClient
@@ -1295,6 +1235,24 @@ ScriptsOnlyBuild:
     className: MLSpatialMapper
   - hash:
       serializedVersion: 2
+      Hash: 63911722392c3b282ebec1129e41411d
+    assemblyName: LuminUnity.dll
+    namespaceName: UnityEngine.XR.MagicLeap
+    className: MLHandMeshingBehavior
+  - hash:
+      serializedVersion: 2
+      Hash: ffe4fc643100d80aad6aaea48a738498
+    assemblyName: LuminUnity.dll
+    namespaceName: UnityEngine.XR.MagicLeap
+    className: MLIdentityProfile
+  - hash:
+      serializedVersion: 2
+      Hash: e7fa06272bc9ad52d94ac29521927b42
+    assemblyName: LuminUnity.dll
+    namespaceName: UnityEngine.XR.MagicLeap
+    className: MLImageTrackerBehavior
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Utils.dll
     namespaceName: 
@@ -1341,6 +1299,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: MagicLeap
     className: DeepSpaceExplorerLauncher
+  - hash:
+      serializedVersion: 2
+      Hash: e66bcf0f6cb856966fc3568807840bd3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: CombinedPlanesExample
   - hash:
       serializedVersion: 2
       Hash: 5503f57feab25077a1e1b713b64d36fb
@@ -1469,6 +1433,12 @@ ScriptsOnlyBuild:
     className: Button
   - hash:
       serializedVersion: 2
+      Hash: 43dc8be0f5b16bc4674dfa0ba3a2f9f4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MagicLeap
+    className: ImageTrackingExample
+  - hash:
+      serializedVersion: 2
       Hash: dfb0db679345844488d2049da30c7508
     assemblyName: Assembly-CSharp.dll
     namespaceName: MagicLeap
@@ -1533,6 +1503,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: MagicLeap
     className: ControllerVisualizer
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: shaderSizeEnable
   - hash:
       serializedVersion: 2
       Hash: 8a1cc88a1b93cb83cb6597e20c3e9748
@@ -1865,6 +1841,24 @@ ScriptsOnlyBuild:
     className: NetworkBehaviour
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: LuminMediaPlayer.dll
+    namespaceName: UnityEngine.XR.MagicLeap
+    className: MLMediaPlayer
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: LuminMediaPlayer.dll
+    namespaceName: UnityEngine.XR.MagicLeap
+    className: MLMediaPlayerEditor
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: LuminMediaPlayer.dll
+    namespaceName: UnityEngine.XR.MagicLeap
+    className: MLMediaPlayerLumin
+  - hash:
+      serializedVersion: 2
       Hash: e1e30f55d022255bc46c0ac75525597c
     assemblyName: RealSense.dll
     namespaceName: 
@@ -1989,6 +1983,18 @@ ScriptsOnlyBuild:
     assemblyName: RealSense.dll
     namespaceName: 
     className: RsSpatialFilter
+  - hash:
+      serializedVersion: 2
+      Hash: 8f986340209843d4b365c3659ac5facc
+    assemblyName: MSA.Runtime.dll
+    namespaceName: MSA
+    className: MSAListener
+  - hash:
+      serializedVersion: 2
+      Hash: 41d89aa4d10fe8a8266e982ca2c20c40
+    assemblyName: MSA.Runtime.dll
+    namespaceName: MSA
+    className: MSASource
   - hash:
       serializedVersion: 2
       Hash: 6e55d8f5f9e03f5e4dd74d1689caa770
@@ -2385,14 +2391,8 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: MagicLeap
     className: DeepSeaExplorerLauncher
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: shaderSizeEnable
   platform: 39
   scenePathNames:
   - Assets/combinedSceneWithSnapshotMirrorNetworking.unity
   - Assets/networkLobbySceneMirrorNetworking.unity
-  playerPath: C:/Users/Brady/Desktop/offsetTracking CURRENT/app2.mpk
+  playerPath: C:/Users/Brady/Desktop/X-Ray/UnityProjects/offsetTracking CURRENT/build.mpk

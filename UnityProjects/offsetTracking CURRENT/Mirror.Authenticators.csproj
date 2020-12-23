@@ -67,10 +67,10 @@
     <Compile Include="Assets\Mirror\Authenticators\TimeoutAuthenticator.cs" />
     <None Include="Assets\Mirror\Authenticators\Mirror.Authenticators.asmdef" />
     <Reference Include="UnityEditor.UI">
-      <HintPath>C:/Users/Brady/Desktop/offsetTracking CURRENT/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>C:/Users/Brady/Desktop/X-Ray/UnityProjects/offsetTracking CURRENT/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>C:/Users/Brady/Desktop/offsetTracking CURRENT/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>C:/Users/Brady/Desktop/X-Ray/UnityProjects/offsetTracking CURRENT/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -262,49 +262,49 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/16.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="LuminMediaPlayer">
-      <HintPath>C:/Users/Brady/Desktop/offsetTracking CURRENT/Assets/MagicLeap/Libs/LuminMediaPlayer.dll</HintPath>
+      <HintPath>C:/Users/Brady/Desktop/X-Ray/UnityProjects/offsetTracking CURRENT/Assets/MagicLeap/Libs/LuminMediaPlayer.dll</HintPath>
     </Reference>
     <Reference Include="LuminUnity">
-      <HintPath>C:/Users/Brady/Desktop/offsetTracking CURRENT/Assets/MagicLeap/Libs/LuminUnity.dll</HintPath>
+      <HintPath>C:/Users/Brady/Desktop/X-Ray/UnityProjects/offsetTracking CURRENT/Assets/MagicLeap/Libs/LuminUnity.dll</HintPath>
     </Reference>
     <Reference Include="LuminUnityEditor">
-      <HintPath>C:/Users/Brady/Desktop/offsetTracking CURRENT/Assets/MagicLeap/Libs/Editor/LuminUnityEditor.dll</HintPath>
+      <HintPath>C:/Users/Brady/Desktop/X-Ray/UnityProjects/offsetTracking CURRENT/Assets/MagicLeap/Libs/Editor/LuminUnityEditor.dll</HintPath>
     </Reference>
     <Reference Include="MSA.Runtime">
-      <HintPath>C:/Users/Brady/Desktop/offsetTracking CURRENT/Assets/MagicLeap/Soundfield/MSA.Runtime.dll</HintPath>
+      <HintPath>C:/Users/Brady/Desktop/X-Ray/UnityProjects/offsetTracking CURRENT/Assets/MagicLeap/Soundfield/MSA.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="MSA.Editor">
-      <HintPath>C:/Users/Brady/Desktop/offsetTracking CURRENT/Assets/MagicLeap/Soundfield/Editor/MSA.Editor.dll</HintPath>
+      <HintPath>C:/Users/Brady/Desktop/X-Ray/UnityProjects/offsetTracking CURRENT/Assets/MagicLeap/Soundfield/Editor/MSA.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Mono.CecilX">
-      <HintPath>C:/Users/Brady/Desktop/offsetTracking CURRENT/Assets/Mirror/Plugins/Mono.Cecil/Mono.CecilX.dll</HintPath>
+      <HintPath>C:/Users/Brady/Desktop/X-Ray/UnityProjects/offsetTracking CURRENT/Assets/Mirror/Plugins/Mono.Cecil/Mono.CecilX.dll</HintPath>
     </Reference>
     <Reference Include="Mono.CecilX.Mdb">
-      <HintPath>C:/Users/Brady/Desktop/offsetTracking CURRENT/Assets/Mirror/Plugins/Mono.Cecil/Mono.CecilX.Mdb.dll</HintPath>
+      <HintPath>C:/Users/Brady/Desktop/X-Ray/UnityProjects/offsetTracking CURRENT/Assets/Mirror/Plugins/Mono.Cecil/Mono.CecilX.Mdb.dll</HintPath>
     </Reference>
     <Reference Include="Mono.CecilX.Pdb">
-      <HintPath>C:/Users/Brady/Desktop/offsetTracking CURRENT/Assets/Mirror/Plugins/Mono.Cecil/Mono.CecilX.Pdb.dll</HintPath>
+      <HintPath>C:/Users/Brady/Desktop/X-Ray/UnityProjects/offsetTracking CURRENT/Assets/Mirror/Plugins/Mono.Cecil/Mono.CecilX.Pdb.dll</HintPath>
     </Reference>
     <Reference Include="Mono.CecilX.Rocks">
-      <HintPath>C:/Users/Brady/Desktop/offsetTracking CURRENT/Assets/Mirror/Plugins/Mono.Cecil/Mono.CecilX.Rocks.dll</HintPath>
+      <HintPath>C:/Users/Brady/Desktop/X-Ray/UnityProjects/offsetTracking CURRENT/Assets/Mirror/Plugins/Mono.Cecil/Mono.CecilX.Rocks.dll</HintPath>
     </Reference>
     <Reference Include="Telepathy">
-      <HintPath>C:/Users/Brady/Desktop/offsetTracking CURRENT/Assets/Mirror/Runtime/Transport/Telepathy/Telepathy.dll</HintPath>
+      <HintPath>C:/Users/Brady/Desktop/X-Ray/UnityProjects/offsetTracking CURRENT/Assets/Mirror/Runtime/Transport/Telepathy/Telepathy.dll</HintPath>
     </Reference>
     <Reference Include="Intel.RealSense">
-      <HintPath>C:/Users/Brady/Desktop/offsetTracking CURRENT/Assets/RealSenseSDK2.0/Plugins/Intel.RealSense.dll</HintPath>
+      <HintPath>C:/Users/Brady/Desktop/X-Ray/UnityProjects/offsetTracking CURRENT/Assets/RealSenseSDK2.0/Plugins/Intel.RealSense.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
-      <HintPath>C:/Users/Brady/Desktop/offsetTracking CURRENT/Assets/RosSharp/Plugins/Newtonsoft.Json.dll</HintPath>
+      <HintPath>C:/Users/Brady/Desktop/X-Ray/UnityProjects/offsetTracking CURRENT/Assets/RosSharp/Plugins/Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="RosBridgeClient">
-      <HintPath>C:/Users/Brady/Desktop/offsetTracking CURRENT/Assets/RosSharp/Plugins/RosBridgeClient.dll</HintPath>
+      <HintPath>C:/Users/Brady/Desktop/X-Ray/UnityProjects/offsetTracking CURRENT/Assets/RosSharp/Plugins/RosBridgeClient.dll</HintPath>
     </Reference>
     <Reference Include="Urdf">
-      <HintPath>C:/Users/Brady/Desktop/offsetTracking CURRENT/Assets/RosSharp/Plugins/Urdf.dll</HintPath>
+      <HintPath>C:/Users/Brady/Desktop/X-Ray/UnityProjects/offsetTracking CURRENT/Assets/RosSharp/Plugins/Urdf.dll</HintPath>
     </Reference>
     <Reference Include="websocket-sharp">
-      <HintPath>C:/Users/Brady/Desktop/offsetTracking CURRENT/Assets/RosSharp/Plugins/websocket-sharp.dll</HintPath>
+      <HintPath>C:/Users/Brady/Desktop/X-Ray/UnityProjects/offsetTracking CURRENT/Assets/RosSharp/Plugins/websocket-sharp.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.2f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>

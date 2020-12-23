@@ -40,6 +40,7 @@ namespace RosSharp.RosBridgeClient
             Debug.Log("Start2\n");
             //Start Unity Subscriber
             base.Start();
+            //Null reference exception: Object reference not set to an instance of an object (In ML Debug console)
             Debug.Log("Got to 1\n");
             //Create empty new mesh for points
             pcObject = GameObject.Find("PointObject");
