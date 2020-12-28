@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealSense", "RealSense.csproj", "{6A68B535-4F62-94FB-3DD5-D79914463F33}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{EAB3BD28-F18F-2468-D2B1-58C064E172AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealSense", "RealSense.csproj", "{6A68B535-4F62-94FB-3DD5-D79914463F33}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mirror", "Mirror.csproj", "{826C4D24-B728-4F47-F17E-62C181106981}"
 EndProject
@@ -33,14 +33,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6A68B535-4F62-94FB-3DD5-D79914463F33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6A68B535-4F62-94FB-3DD5-D79914463F33}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6A68B535-4F62-94FB-3DD5-D79914463F33}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6A68B535-4F62-94FB-3DD5-D79914463F33}.Release|Any CPU.Build.0 = Release|Any CPU
 		{EAB3BD28-F18F-2468-D2B1-58C064E172AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{EAB3BD28-F18F-2468-D2B1-58C064E172AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAB3BD28-F18F-2468-D2B1-58C064E172AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EAB3BD28-F18F-2468-D2B1-58C064E172AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A68B535-4F62-94FB-3DD5-D79914463F33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A68B535-4F62-94FB-3DD5-D79914463F33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A68B535-4F62-94FB-3DD5-D79914463F33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A68B535-4F62-94FB-3DD5-D79914463F33}.Release|Any CPU.Build.0 = Release|Any CPU
 		{826C4D24-B728-4F47-F17E-62C181106981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{826C4D24-B728-4F47-F17E-62C181106981}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{826C4D24-B728-4F47-F17E-62C181106981}.Release|Any CPU.ActiveCfg = Release|Any CPU

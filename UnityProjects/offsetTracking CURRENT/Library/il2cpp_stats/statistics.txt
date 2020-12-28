@@ -1,78 +1,78 @@
 ----IL2CPP Arguments----
---convert-to-cpp --emit-null-checks --enable-stacktrace --enable-array-bounds-check --dotnetprofile=unityaot --compile-cpp --libil2cpp-static --platform=Lumin --architecture=ARM64 --configuration=Release --outputpath=C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp/StagingArea/Data\Native\libil2cpp.so --cachedirectory=C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Assets\..\Library\il2cpp_cache/il2cpp_cache --verbose --enable-stats --stats-output-dir=C:/Users/Brady/Desktop/X-Ray/UnityProjects/offsetTracking CURRENT/Assets/../Library/il2cpp_stats --profiler-report --map-file-parser=C:/Program Files/Unity/Hub/Editor/2019.2.2f1/Editor/Data/Tools/MapFileParser/MapFileParser.exe --directory=C:/Users/Brady/Desktop/X-Ray/UnityProjects/offsetTracking CURRENT/Temp/StagingArea/Data/Managed --generatedcppdir=C:/Users/Brady/Desktop/X-Ray/UnityProjects/offsetTracking CURRENT/Temp/StagingArea/Data/il2cppOutput
+--convert-to-cpp --emit-null-checks --enable-stacktrace --enable-array-bounds-check --dotnetprofile=unityaot --compile-cpp --libil2cpp-static --platform=Lumin --architecture=ARM64 --configuration=Release --outputpath=C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp/StagingArea/Data\Native\libil2cpp.so --cachedirectory=C:\Users\Brady\Desktop\offsetTracking CURRENT\Assets\..\Library\il2cpp_cache/il2cpp_cache --verbose --enable-stats --stats-output-dir=C:/Users/Brady/Desktop/offsetTracking CURRENT/Assets/../Library/il2cpp_stats --profiler-report --map-file-parser=C:/Program Files/Unity/Hub/Editor/2019.2.2f1/Editor/Data/Tools/MapFileParser/MapFileParser.exe --directory=C:/Users/Brady/Desktop/offsetTracking CURRENT/Temp/StagingArea/Data/Managed --generatedcppdir=C:/Users/Brady/Desktop/offsetTracking CURRENT/Temp/StagingArea/Data/il2cppOutput
 
 ----Assemblies Converted-----
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\com.unity.multiplayer-hlapi.Runtime.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\Intel.RealSense.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\LuminMediaPlayer.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\LuminUnity.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\Mirror.Authenticators.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\Mirror.Components.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\Mirror.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\Mirror.Examples.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\Mono.Security.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\mscorlib.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\netstandard.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\Newtonsoft.Json.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\Pcx.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\RealSense.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\RosBridgeClient.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\System.Configuration.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\System.Core.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\System.Diagnostics.StackTrace.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\System.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\System.Globalization.Extensions.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\System.IO.Compression.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\System.Runtime.Serialization.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\System.Xml.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\System.Xml.Linq.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\Unity.Subsystem.Registration.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\Unity.XR.ARSubsystems.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\Unity.XR.InteractionSubsystems.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\Unity.XR.Management.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.AIModule.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.AndroidJNIModule.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.AnimationModule.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.ARModule.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.AssetBundleModule.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.AudioModule.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.CoreModule.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.DirectorModule.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.GridModule.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.ImageConversionModule.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.IMGUIModule.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.InputLegacyModule.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.InputModule.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.JSONSerializeModule.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.LuminModule.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.ParticleSystemModule.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.Physics2DModule.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.PhysicsModule.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.SharedInternalsModule.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.SpatialTracking.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.TerrainModule.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.TextRenderingModule.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.TilemapModule.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.UI.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.UIElementsModule.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.UIModule.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.UNETModule.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.UnityAnalyticsModule.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.UnityWebRequestModule.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.VFXModule.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.VideoModule.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.VRModule.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.XR.MagicLeap.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.XRModule.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\Urdf.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\Utils.dll
-	C:\Users\Brady\Desktop\X-Ray\UnityProjects\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\websocket-sharp.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\com.unity.multiplayer-hlapi.Runtime.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\Intel.RealSense.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\LuminMediaPlayer.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\LuminUnity.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\Mirror.Authenticators.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\Mirror.Components.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\Mirror.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\Mirror.Examples.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\Mono.Security.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\mscorlib.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\netstandard.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\Newtonsoft.Json.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\Pcx.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\RealSense.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\RosBridgeClient.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\System.Configuration.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\System.Core.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\System.Diagnostics.StackTrace.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\System.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\System.Globalization.Extensions.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\System.IO.Compression.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\System.Runtime.Serialization.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\System.Xml.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\System.Xml.Linq.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\Unity.Subsystem.Registration.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\Unity.XR.ARSubsystems.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\Unity.XR.InteractionSubsystems.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\Unity.XR.Management.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.AIModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.AndroidJNIModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.AnimationModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.ARModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.AssetBundleModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.AudioModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.CoreModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.DirectorModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.GridModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.ImageConversionModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.IMGUIModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.InputLegacyModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.InputModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.JSONSerializeModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.LuminModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.ParticleSystemModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.Physics2DModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.PhysicsModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.SharedInternalsModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.SpatialTracking.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.TerrainModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.TextRenderingModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.TilemapModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.UI.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.UIElementsModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.UIModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.UNETModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.UnityWebRequestModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.VFXModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.VideoModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.VRModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.XR.MagicLeap.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\UnityEngine.XRModule.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\Urdf.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\Utils.dll
+	C:\Users\Brady\Desktop\offsetTracking CURRENT\Temp\StagingArea\Data\Managed\websocket-sharp.dll
 
 ----- il2cpp Statistics -----
 General:
-	Conversion Time: 62.378 s
+	Conversion Time: 55.194 s
 	Files Written: 279
 	String Literals: 9605
 Methods:
@@ -134,85 +134,85 @@ Interop:
 	COM callable wrapper methods that were forwarded to call base class method : 0
 Compilation:
 	Total Files: 313
-	Files Compiled: 0
-	Cache Hits: 313
-	Cache Hit %: 100
+	Files Compiled: 29
+	Cache Hits: 284
+	Cache Hit %: 90
 
 
 ----Assembly Conversion Times----
-	Convert Assembly-CSharp (1412.37939453125ms)
-	Convert com.unity.multiplayer-hlapi.Runtime (1277.75512695313ms)
-	Convert Intel.RealSense (106.808303833008ms)
-	Convert LuminMediaPlayer (313.725799560547ms)
-	Convert LuminUnity (2175.07250976563ms)
-	Convert Mirror (1521.40954589844ms)
-	Convert Mirror.Authenticators (53.798999786377ms)
-	Convert Mirror.Components (127.248207092285ms)
-	Convert Mirror.Examples (185.718109130859ms)
-	Convert Mono.Security (323.381286621094ms)
-	Convert mscorlib (4827.908203125ms)
-	Convert netstandard (1.8992999792099ms)
-	Convert Newtonsoft.Json (960.826965332031ms)
-	Convert Pcx (21.7628002166748ms)
-	Convert RealSense (162.761596679688ms)
-	Convert RosBridgeClient (65.2679977416992ms)
-	Convert System (1977.94116210938ms)
-	Convert System.Configuration (23.7988986968994ms)
-	Convert System.Core (1244.29663085938ms)
-	Convert System.Diagnostics.StackTrace (1.95910000801086ms)
-	Convert System.Globalization.Extensions (1.96899998188019ms)
-	Convert System.IO.Compression (1.88119995594025ms)
-	Convert System.Runtime.Serialization (12.1907997131348ms)
-	Convert System.Xml (1277.41479492188ms)
-	Convert System.Xml.Linq (82.6985015869141ms)
-	Convert Unity.Subsystem.Registration (17.4552993774414ms)
-	Convert Unity.XR.ARSubsystems (122.872894287109ms)
-	Convert Unity.XR.InteractionSubsystems (43.9553985595703ms)
-	Convert Unity.XR.Management (42.7641983032227ms)
-	Convert UnityEngine (2.24830007553101ms)
-	Convert UnityEngine.AIModule (14.2252988815308ms)
-	Convert UnityEngine.AndroidJNIModule (73.5755996704102ms)
-	Convert UnityEngine.AnimationModule (56.709300994873ms)
-	Convert UnityEngine.ARModule (18.5724983215332ms)
-	Convert UnityEngine.AssetBundleModule (30.24049949646ms)
-	Convert UnityEngine.AudioModule (29.3939990997314ms)
-	Convert UnityEngine.CoreModule (558.876098632813ms)
-	Convert UnityEngine.DirectorModule (20.4782009124756ms)
-	Convert UnityEngine.GridModule (2.49429988861084ms)
-	Convert UnityEngine.ImageConversionModule (15.5246000289917ms)
-	Convert UnityEngine.IMGUIModule (295.480499267578ms)
-	Convert UnityEngine.InputLegacyModule (32.158203125ms)
-	Convert UnityEngine.InputModule (22.1639003753662ms)
-	Convert UnityEngine.JSONSerializeModule (16.0440006256104ms)
-	Convert UnityEngine.LuminModule (12.9430999755859ms)
-	Convert UnityEngine.ParticleSystemModule (19.659200668335ms)
-	Convert UnityEngine.Physics2DModule (34.9155006408691ms)
-	Convert UnityEngine.PhysicsModule (51.7649993896484ms)
-	Convert UnityEngine.SharedInternalsModule (29.7910022735596ms)
-	Convert UnityEngine.SpatialTracking (87.4929962158203ms)
-	Convert UnityEngine.TerrainModule (38.4550018310547ms)
-	Convert UnityEngine.TextRenderingModule (38.2360000610352ms)
-	Convert UnityEngine.TilemapModule (19.4731006622314ms)
-	Convert UnityEngine.UI (1256.22998046875ms)
-	Convert UnityEngine.UIElementsModule (16.6804008483887ms)
-	Convert UnityEngine.UIModule (37.6991004943848ms)
-	Convert UnityEngine.UNETModule (150.311187744141ms)
-	Convert UnityEngine.UnityAnalyticsModule (21.4818000793457ms)
-	Convert UnityEngine.UnityWebRequestModule (58.6835975646973ms)
-	Convert UnityEngine.VFXModule (18.5551013946533ms)
-	Convert UnityEngine.VideoModule (38.7488975524902ms)
-	Convert UnityEngine.VRModule (15.3395004272461ms)
-	Convert UnityEngine.XR.MagicLeap (464.331512451172ms)
-	Convert UnityEngine.XRModule (103.058898925781ms)
-	Convert Urdf (13.5472993850708ms)
-	Convert Utils (87.4525985717773ms)
-	Convert websocket-sharp (232.716796875ms)
+	Convert Assembly-CSharp (1395.59545898438ms)
+	Convert com.unity.multiplayer-hlapi.Runtime (1231.84020996094ms)
+	Convert Intel.RealSense (110.462501525879ms)
+	Convert LuminMediaPlayer (321.159820556641ms)
+	Convert LuminUnity (2048.57275390625ms)
+	Convert Mirror (1397.10327148438ms)
+	Convert Mirror.Authenticators (32.7436981201172ms)
+	Convert Mirror.Components (119.677597045898ms)
+	Convert Mirror.Examples (192.121200561523ms)
+	Convert Mono.Security (202.540298461914ms)
+	Convert mscorlib (5144.90087890625ms)
+	Convert netstandard (8.28639984130859ms)
+	Convert Newtonsoft.Json (983.345336914063ms)
+	Convert Pcx (21.7451000213623ms)
+	Convert RealSense (153.120788574219ms)
+	Convert RosBridgeClient (59.9314994812012ms)
+	Convert System (1977.748046875ms)
+	Convert System.Configuration (18.8852005004883ms)
+	Convert System.Core (1313.90087890625ms)
+	Convert System.Diagnostics.StackTrace (8.36159992218018ms)
+	Convert System.Globalization.Extensions (8.55049991607666ms)
+	Convert System.IO.Compression (8.73099994659424ms)
+	Convert System.Runtime.Serialization (13.4944000244141ms)
+	Convert System.Xml (1300.24389648438ms)
+	Convert System.Xml.Linq (85.6261978149414ms)
+	Convert Unity.Subsystem.Registration (17.8996982574463ms)
+	Convert Unity.XR.ARSubsystems (126.214691162109ms)
+	Convert Unity.XR.InteractionSubsystems (45.6479988098145ms)
+	Convert Unity.XR.Management (56.2798004150391ms)
+	Convert UnityEngine (11.1147003173828ms)
+	Convert UnityEngine.AIModule (16.5921001434326ms)
+	Convert UnityEngine.AndroidJNIModule (83.757194519043ms)
+	Convert UnityEngine.AnimationModule (64.6577987670898ms)
+	Convert UnityEngine.ARModule (19.2486000061035ms)
+	Convert UnityEngine.AssetBundleModule (19.459400177002ms)
+	Convert UnityEngine.AudioModule (29.6229000091553ms)
+	Convert UnityEngine.CoreModule (591.50927734375ms)
+	Convert UnityEngine.DirectorModule (11.2583999633789ms)
+	Convert UnityEngine.GridModule (17.17799949646ms)
+	Convert UnityEngine.ImageConversionModule (10.8797998428345ms)
+	Convert UnityEngine.IMGUIModule (310.806396484375ms)
+	Convert UnityEngine.InputLegacyModule (24.9573993682861ms)
+	Convert UnityEngine.InputModule (29.7195014953613ms)
+	Convert UnityEngine.JSONSerializeModule (17.5103015899658ms)
+	Convert UnityEngine.LuminModule (15.1288995742798ms)
+	Convert UnityEngine.ParticleSystemModule (28.9008007049561ms)
+	Convert UnityEngine.Physics2DModule (35.1508979797363ms)
+	Convert UnityEngine.PhysicsModule (53.2622032165527ms)
+	Convert UnityEngine.SharedInternalsModule (30.5417976379395ms)
+	Convert UnityEngine.SpatialTracking (67.4604034423828ms)
+	Convert UnityEngine.TerrainModule (35.6198997497559ms)
+	Convert UnityEngine.TextRenderingModule (41.8575019836426ms)
+	Convert UnityEngine.TilemapModule (19.6384983062744ms)
+	Convert UnityEngine.UI (1177.27868652344ms)
+	Convert UnityEngine.UIElementsModule (16.3826007843018ms)
+	Convert UnityEngine.UIModule (40.3359985351563ms)
+	Convert UnityEngine.UNETModule (128.438598632813ms)
+	Convert UnityEngine.UnityAnalyticsModule (16.2587013244629ms)
+	Convert UnityEngine.UnityWebRequestModule (59.0777969360352ms)
+	Convert UnityEngine.VFXModule (15.665699005127ms)
+	Convert UnityEngine.VideoModule (22.0883007049561ms)
+	Convert UnityEngine.VRModule (13.6104001998901ms)
+	Convert UnityEngine.XR.MagicLeap (455.963684082031ms)
+	Convert UnityEngine.XRModule (104.778503417969ms)
+	Convert Urdf (12.9357004165649ms)
+	Convert Utils (85.282096862793ms)
+	Convert websocket-sharp (238.264083862305ms)
 
 ----Misc Timing----
-	PreProcessStage: 982.402465820313
+	PreProcessStage: 900.614135742188
 	GenericsCollector.Collect: None
-	WriteGenerics: 15712.458984375
-	AllAssemblyConversion: 23526.4609375
+	WriteGenerics: 13723.9619140625
+	AllAssemblyConversion: 23374.677734375
 
 ----Generated Files----
 Assembly-CSharp.cpp	2068057
